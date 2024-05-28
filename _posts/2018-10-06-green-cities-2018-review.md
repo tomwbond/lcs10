@@ -20,10 +20,6 @@ I think Green Cities can be summed up as a DLC that’s about fixing your city�
 
 The pack broadens systems rather than overhauling them, and I love making neighbourhoods green and self-sufficient. Clean, low-impact communities that are all trees, bike lanes and green roofs.
 
-### Why review it now?
-
-For latecomers to the game (like me), I hope these DLC reviews will help prioritise. With six expansions, it’s not always easy to know which are the most impactful additions to the game. And in 2018 with three years of updates, we can look at these packs in context.
-
 ## What’s new in Green Cities?
 
 ![Solar updraft towers Green Cities](/images/solar-updraft-towers.jpg)
