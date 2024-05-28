@@ -34,7 +34,7 @@ It’s not possible to mix and match building types across Campus types. Campus 
 
 ## Effective Campus design
 
-![Building in-city university campuses](/images/05/20190528155550_1-1.jpg)
+![Building in-city university campuses](/images/20190528155550_1-1.jpg)
 
 Campus buildings are, like in Parklife, able to snap to footpaths as well as roads (with the exception of the Administration building, which acts as a front door for things like garbage collection and police visits). That opens up opportunities to design stunning, leafy campuses with flowing footpaths and no traffic.
 
