@@ -30,6 +30,14 @@ In Cities: Skylines, every city is unique. The geography, size of your districts
 
 [test link6](/parklife-review/)
 
+[test link7](parklife-review)
+
+[test link8](2018-10-21-parklife-review.md)
+
+[test link9](parklife-review)
+
+
+
 
 
 That said, the general principles always apply. There’s optimal strategies that can help you keep traffic flow well over 80% no matter how big your city gets. In this guide, I’ll talk about some of those principles. We’ll also look at a few of the game’s systems, UI and quirks.
