@@ -40,9 +40,6 @@ round-avatar: false
 # then specify the following parameter
 #title-img: /path/to/image
 
-logo: "/assets/img/avatar-icon.png"
-
-
 #####################################
 # --- Footer social media links --- #
 #####################################
