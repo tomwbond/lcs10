@@ -16,7 +16,9 @@ image:
 
 In Cities: Skylines, every city is unique. The geography, size of your districts, mix of commercial and industrial areas, available outside connections and a hundred other factors will determine the right traffic management solution for each part of the city.
 
-[test link](/_posts/2018-11-01-best-dlc.md)
+[test link](2018-11-01-best-dlc.md)
+
+[test link2](2018-11-01-best-dlc)
 
 That said, the general principles always apply. There’s optimal strategies that can help you keep traffic flow well over 80% no matter how big your city gets. In this guide, I’ll talk about some of those principles. We’ll also look at a few of the game’s systems, UI and quirks.
 
