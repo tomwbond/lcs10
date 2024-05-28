@@ -26,6 +26,10 @@ In Cities: Skylines, every city is unique. The geography, size of your districts
 
 [test link4](/2018-11-01-best-dlc.html)
 
+[test link5]({% post_url 2018-11-01-best-dlc %})
+
+
+
 That said, the general principles always apply. There’s optimal strategies that can help you keep traffic flow well over 80% no matter how big your city gets. In this guide, I’ll talk about some of those principles. We’ll also look at a few of the game’s systems, UI and quirks.
 
 Here’s a few other posts that complement this one: [how to reduce traffic in the first place](2018-09-02-reduce-manage-traffic-cities-skylines.md), [how to build bike highways](2018-10-20-biking-superhighways-guide-cycling.md), [how to add pedestrian crossings](2018-09-02-easily-add-crosswalks-without-junctions.md), [rundown of every public transport type](2018-10-03-guide-every-type-public-transport.md).
