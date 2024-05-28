@@ -5,6 +5,7 @@ permalink: "/how-to-bring-more-tourists-to-your-city-in-cities-skylines/"
 author: "SEPECAT"
 categories: "Guides"
 tags:
+share-description: "I love building a city that thrives on tourism. There’s just something about the idea of hundreds of eager visitors stepping off the plane, train or ship and being welcomed into my city’s open arms that appeals to me."
 excerpt: "I love building a city that thrives on tourism. There’s just something about the idea of hundreds of eager visitors stepping off the plane, train or ship and being welcomed into my city’s open arms that appeals to me."
 cover-img: "/images/tourist-plane-airport.jpg"
 ---
