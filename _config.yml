@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: "Love Cities:Skylines"
+title: "Love Cities: Skylines"
 
 # Your name to show in the footer
 author: "SEPECAT"
@@ -21,7 +21,7 @@ author: "SEPECAT"
 
 navbar-links:
   About: "about"
-  Resources:
+  DLC Reviews:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
 
