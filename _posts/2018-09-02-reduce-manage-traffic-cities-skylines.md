@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "How to Manage Traffic by Reducing It in Cities: Skylines"
 date: "2018-09-02"
 permalink: "/reduce-manage-traffic-cities-skylines/"
@@ -9,8 +8,6 @@ tags:
 excerpt: "In a typical city, managing traffic is your biggest challenge. With a badly-designed system, people can’t get to where they’re going, causing abandonment; and potentially, the death of your once-flourishing settlement."
 image: "/images/gridlock-2.jpg"
 ---
-
-# How to Manage Traffic by Reducing It in Cities: Skylines
 
 ![Pedestrian paths](/images/footpath-pedestrians.jpg)
 
@@ -85,7 +82,7 @@ Using low-density housing doesn’t strictly reduce traffic, but it does spread 
 
 The same applies to low-density commercial zones, which cater to fewer customers and therefore reduce demand for specific bits of road.
 
-The type of zoning that does legitimately reduce traffic is the Organic and Local Produce commercial specialisation that came in with the [Green Cities expansion](2018-10-06-green-cities-2018-review.md). By acting as a mini-factory, businesses source raw materials and finish them on-site. That reduces truck traffic by a full 50%. They also create 20% less garbage, lessening those visits, too.
+The type of zoning that does legitimately reduce traffic is the Organic and Local Produce commercial specialisation that came in with the [Green Cities expansion](/green-cities-2018-review/). By acting as a mini-factory, businesses source raw materials and finish them on-site. That reduces truck traffic by a full 50%. They also create 20% less garbage, lessening those visits, too.
 
 Organic zones make very little noise - meaning you can put them right inside your residential zones. That brings them within walking distance of many more people, another traffic reduction measure.
 
@@ -95,11 +92,11 @@ Organic zones make very little noise - meaning you can put them right inside you
 
 *The transit hierarchy: residents take buses from the suburbs to the high street where they swap to trams that go to the train station for services to other parts of the city.*
 
-This is really the most obvious way - and it warrants it own post [which I've done here](2018-10-03-guide-every-type-public-transport.md) so I won’t go into tons of detail. The main thing - as IRL - is public transit needs to be a genuine alternative for people to switch.
+This is really the most obvious way - and it warrants it own post [which I've done here](/guide-every-type-public-transport/) so I won’t go into tons of detail. The main thing - as IRL - is public transit needs to be a genuine alternative for people to switch.
 
 The game’s pathfinding will decide the fastest route at the start of the journey. If there’s a bunch of a low-speed roads and a couple of annoying ‘Old Town’ areas they’ll have to drive around to get to work; or a gleaming new monorail that goes direct, with a short, easy walk at each end, well. They'll do the sensible thing!
 
-The same idea applies to tourists. By providing fast, accessible and well-integrated transport options, you’ll make their decision easy. I’ve written more about tourism [here](2018-09-01-how-to-bring-more-tourists-to-your-city-in-cities-skylines.md).
+The same idea applies to tourists. By providing fast, accessible and well-integrated transport options, you’ll make their decision easy. I’ve written more about tourism [here](/how-to-bring-more-tourists-to-your-city-in-cities-skylines/).
 
 Think of public transport as a hierarchy: use local routes that feed medium-length routes, intersected with long-range routes. So your buses feed your metro, which takes you to the train station. Complement, rather than duplicate, your lines to maximise use.
 
@@ -129,7 +126,7 @@ Bike paths, on the other hand, are a bit of an oddity. I use them, but cyclists 
 
 If you’re going all-in on bikes, you can use the Asset Editor to create new road types that include bike lanes, like my favourite monorail-road-bike lane combo.
 
-I've written a [guide for building biking superhighways](2018-10-20-biking-superhighways-guide-cycling.md).
+I've written a [guide for building biking superhighways](/biking-superhighways-guide-cycling/).
 
 ## Add crosswalks/pedestrian crossings on quiet streets
 
@@ -140,7 +137,7 @@ I've written a [guide for building biking superhighways](2018-10-20-biking-super
 In the unmodded game, there’s no way of removing or turning off crosswalks, but you can add them. Crossing points get added at intersections, but they also appear when one road type runs into another.
 You can use this to your advantage. Take a standard two-lane road as an example. Upgrade one section to another type, and you’ll get crossing points where they meet! For more precision, delete a few stretches of road, and draw a very short piece of road where you want the crossing. Then just reconnect for the same effect.
 
-I’ve covered this in more detail (including the how and the why) [here](2018-09-02-easily-add-crosswalks-without-junctions.md).
+I’ve covered this in more detail (including the how and the why) [here](/easily-add-crosswalks-without-junctions/).
 
 ## As a last resort, use gimmicks
 

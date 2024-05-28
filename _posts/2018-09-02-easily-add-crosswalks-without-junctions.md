@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "How to Easily Add Crosswalks (without Junctions) to Reduce Traffic"
 date: "2018-09-01"
 permalink: "/easily-add-crosswalks-without-junctions/"
@@ -7,10 +6,8 @@ author: "SEPECAT"
 categories: "Tips"
 tags:
 excerpt: "Now while we can’t remove them, there is a way we can add them without having to build a junction!"
-image: "/images/tourist-plane-airport.jpg"
+image: 
 ---
-
-# How to Easily Add Crosswalks (without Junctions) to Reduce Traffic
 
 In Cities: Skylines, as in life, crosswalks (or pedestrian crossings where I’m from!) let pedestrians, cyclists and dogs get from one side of the street to the other safely. They get added automatically at junctions and intersections.
 
@@ -23,12 +20,12 @@ Now while we can’t remove them, there is a way we can add them without having 
 
 All you need to do is upgrade the road type in one place. Where the roads join, crosswalks appear. But there's also a neater and more precise way to add them. Read on!
 
-### Use crosswalks to reduce road traffic
+## Use crosswalks to reduce road traffic
 
 There’s two ways to use crossings strategically. The first is to give pedestrians a street crossing away from your busiest junctions. That’ll help ease needless congestion caused by people on foot.
-The second, bigger reason, is to make shortcuts across an estate. We can massively shorten the distance between people’s houses and transit stops or schools. Suddenly, lots of people who used to drive now find their journey is quicker on public transport. Bit by bit, you can reduce traffic all over the city (I wrote more about that [here](2018-09-02-reduce-manage-traffic-cities-skylines.md).
+The second, bigger reason, is to make shortcuts across an estate. We can massively shorten the distance between people’s houses and transit stops or schools. Suddenly, lots of people who used to drive now find their journey is quicker on public transport. Bit by bit, you can reduce traffic all over the city (I wrote more about that [here](/reduce-manage-traffic-cities-skylines/).
 
-### Let’s use this really simple example:
+## Let’s use this really simple example:
 
 ![Low density suburb](/images/low-densityhousing.jpg)
 

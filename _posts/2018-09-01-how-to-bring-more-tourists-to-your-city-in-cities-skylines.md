@@ -6,7 +6,7 @@ author: "SEPECAT"
 categories: "Guides"
 tags:
 excerpt: "I love building a city that thrives on tourism. There’s just something about the idea of hundreds of eager visitors stepping off the plane, train or ship and being welcomed into my city’s open arms that appeals to me."
-image: "/images/tourist-plane-airport.jpg"
+cover-img: "/images/tourist-plane-airport.jpg"
 ---
 
 ![Tourists coming from the airport](/images/airport-tourists.jpg)
