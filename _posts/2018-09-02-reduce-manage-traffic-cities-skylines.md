@@ -6,7 +6,8 @@ author: "SEPECAT"
 categories: "Guides"
 tags:
 excerpt: "In a typical city, managing traffic is your biggest challenge. With a badly-designed system, people can’t get to where they’re going, causing abandonment; and potentially, the death of your once-flourishing settlement."
-image: "/images/gridlock-2.jpg"
+share-description: "In a typical city, managing traffic is your biggest challenge. With a badly-designed system, people can’t get to where they’re going, causing abandonment; and potentially, the death of your once-flourishing settlement."
+cover-img: "/images/gridlock-2.jpg"
 ---
 
 ![Pedestrian paths](/images/footpath-pedestrians.jpg)

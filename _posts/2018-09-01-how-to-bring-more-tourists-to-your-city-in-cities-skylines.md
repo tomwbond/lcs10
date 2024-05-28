@@ -180,4 +180,4 @@ In short: build up your attractiveness with unique buildings and parks and bring
 
 I hope you found this helpful! Really, I’m answering all the questions I had when I was figuring out how tourism works in this game. I’d love to know what you think: if I’ve got anything wrong or missed key details. Or if there’s other aspects you’d like me to cover.
 
-If you liked this content and want to buy any of the products I’ve talked about, you can support the site, donate to charity and (usually) save money all at the same time by using my links to Humble Bundle. Once you receive your product key, activate it on Steam, and you’re away! Thank you so much. Links are on the [About](/about/) page.
+*If you liked this content and want to buy any of the products I’ve talked about, you can support the site, donate to charity and (usually) save money all at the same time by using my links to Humble Bundle. Once you receive your product key, activate it on Steam, and you’re away! Thank you so much. Links are on the [About](/about/) page.*
