@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Good Traffic Management Guide"
 date: "2018-11-04"
 permalink: "/traffic-management-guide/"
@@ -10,39 +9,13 @@ excerpt: "In Cities: Skylines, every city is unique. But there are general princ
 image:
 ---
 
-# Good Traffic Management Guide
-
 ![Traffic overlay](/images/traffic-overlay-good-traffic.jpg)
 
 In Cities: Skylines, every city is unique. The geography, size of your districts, mix of commercial and industrial areas, available outside connections and a hundred other factors will determine the right traffic management solution for each part of the city.
 
-[test link](2018-11-01-best-dlc.md)
-
-[test link2](2018-11-01-best-dlc)
-
-[test link3](2018-11-01-best-dlc.html)
-
-[test link3](/_posts/2018-11-01-best-dlc.html)
-
-[test link4](/2018-11-01-best-dlc.html)
-
-[test link5]({% post_url 2018-11-01-best-dlc %})
-
-[test link6](/parklife-review/)
-
-[test link7](parklife-review)
-
-[test link8](2018-10-21-parklife-review.md)
-
-[test link9](parklife-review)
-
-
-
-
-
 That said, the general principles always apply. There’s optimal strategies that can help you keep traffic flow well over 80% no matter how big your city gets. In this guide, I’ll talk about some of those principles. We’ll also look at a few of the game’s systems, UI and quirks.
 
-Here’s a few other posts that complement this one: [how to reduce traffic in the first place]({% post_url 2018-09-02-reduce-manage-traffic-cities-skylines %}), [how to build bike highways]({% post_url 2018-10-20-biking-superhighways-guide-cycling %}), [how to add pedestrian crossings]({% post_url 2018-09-02-easily-add-crosswalks-without-junctions %}), [rundown of every public transport type]({% post_url 2018-10-03-guide-every-type-public-transport %}).
+Here’s a few other posts that complement this one: [how to reduce traffic in the first place](/reduce-manage-traffic-cities-skylines/), [how to build bike highways](/biking-superhighways-guide-cycling/), [how to add pedestrian crossings](/easily-add-crosswalks-without-junctions/), [rundown of every public transport type](/guide-every-type-public-transport/).
 
 *Note on compatibility: I’m writing this late 2018, after the first seven expansions, including Industries. I’m talking about the unmodded game, so the advice here should work across PC, Mac, Switch, Xbox, PS4 and Linux versions.*
 
@@ -72,7 +45,7 @@ What we want to do is stop traffic passing through districts that aren’t their
 
 ## City master planning
 
-Once I’d got a huge 250k population city out of my system, I became much keener on making more interesting cities. Ones bound by tricky geography or built around unusual public transport setups. Now that the [Industries](2018-10-31-industries-expansion-review.md) expansion is out, I’m looking forward to building a sprawling region of small industrial towns.
+Once I’d got a huge 250k population city out of my system, I became much keener on making more interesting cities. Ones bound by tricky geography or built around unusual public transport setups. Now that the [Industries](/industries-expansion-review/) expansion is out, I’m looking forward to building a sprawling region of small industrial towns.
 
 What I’m trying to say is that while there’s optimal strategies for high population, I get more satisfaction from smaller, more characterful cities. I guess that’s the RPG gamer in me: wanting to play based around interesting trait and build choices.
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tourism Guide: How to Attract Thousands of Visitors"
 date: "2018-09-01"
 permalink: "/how-to-bring-more-tourists-to-your-city-in-cities-skylines/"
@@ -9,8 +8,6 @@ tags:
 excerpt: "I love building a city that thrives on tourism. There’s just something about the idea of hundreds of eager visitors stepping off the plane, train or ship and being welcomed into my city’s open arms that appeals to me."
 image: "/images/tourist-plane-airport.jpg"
 ---
-
-# Tourism Guide: How to Attract Thousands of Visitors
 
 ![Tourists coming from the airport](/images/airport-tourists.jpg)
 
@@ -30,7 +27,7 @@ I was a latecomer to [Cities: Skylines](https://www.humblebundle.com/store/citie
 
 *Just a note on compatibility: I’m talking about the vanilla, unmodded game here, so it applies across PC, Xbox, PS4 and Mac versions. I talk about stuff in the After Dark, Mass Transit and Parklife expansions. If you want to get those and support this page at the same time, you can grab on them Humble Bundle [here](https://www.humblebundle.com/store/cities-skylines-after-dark?partner=twcb), [here](https://www.humblebundle.com/store/cities-skylines-mass-transit?partner=twcb) and [here](https://www.humblebundle.com/store/cities-skylines-parklife?partner=twcb), or from the links in the text. Thank you!*
 
-### How does tourism work?
+## How does tourism work?
 
 ![Tourist overlay](/images/tourist-overlay-2.jpg)
 
@@ -48,7 +45,7 @@ Early on, all your tourists will arrive by car. As you expand the map and pass p
 
 Now, it’s not completely clear whether adding new ways for tourists to visit means more tourists by itself. It's possible city attractiveness is the only determiner of how many come along. If you've got any data on that, I'd love to see it! Either way, adding entry and exit points gives you more control over how tourists move around. That has the double benefit of controlling traffic and getting them on your public transport.
 
-### How do I boost the numbers of tourists?
+## How do I boost the numbers of tourists?
 
 ![Tourist overlay](/images/tourist-overlay-1.jpg)
 
@@ -70,7 +67,7 @@ The other one that helps a bit is Park Maintenance Boost. If you’re using the 
 
 It’s worth saying that these policies can be set city-wide or by district, allowing you finer control. Each Parklife park also has its own set of policies that can boost its attractiveness (or not, for local parks you aren’t trying to promote).
 
-### **The Tourism specialisation**
+## **The Tourism specialisation**
 
 ![Tourism specialisation](/images/tourist-specialisation-district.jpg)
 
@@ -86,7 +83,7 @@ Of course, though, who cares about mechanical benefits if it doesn’t also look
 
 By the way, when you add a specialisation to a district, the buildings inside the district don’t just ‘specialise’... they disappear. New buildings spawn from scratch! Because most specialisations only have a single level, you won’t need to wait for them to upgrade, but if your demand for that type of zone is low, it might take a long time for the area to fill up again. In the meantime, you have a hit on employment, taxes and tourism. If that’s going to be a problem, you can do it progressively, expanding the district over time.
 
-### **The economics of tourism - is it profitable?**
+## **The economics of tourism - is it profitable?**
 
 ![Budget panel](/images/tourism-budget.jpg)
 
@@ -100,7 +97,7 @@ That said, entry points like the airport cost a fortune, and the upkeep of some 
 
 Ultimately though, running a budget surplus in the game isn’t a huge challenge, so it probably doesn’t matter. If building an internationally renowned tourism destination is your thing (and it is mine), it’s more than possible.
 
-### **Doing your master planning**
+## **Doing your master planning**
 
 ![My notepad](/images/notepad-masterplanning.jpg)
 
@@ -114,7 +111,7 @@ The other way is to design smaller centres based around a handful of key buildin
 
 If you go that way, you could put your amusement park, casino and hotel uniques together, surrounded by leisure and tourism districts. Somewhere else, you could go for a beachfront feel based around all the marina-type buildings and perhaps a busy ferry line. In a greener area, maybe a campus district that serves university education to your citizens, complemented by tourist-trap landmarks. The Observatory, Climate Research Station and stuff like the Tax Office, Oppression Office and Amsterdam Palace make it look real.
 
-### **Designing your public transport**
+## **Designing your public transport**
 
 ![Transport masterplanning](/images/monorail-tourism.jpg)
 
@@ -130,7 +127,7 @@ Instead, it’s better to lengthen existing lines, so they reach out to transit 
 
 In my archipelago city, for example, I fulfilled a geeky dream of having monorail as the primary, very profitable and extensively used transit method. It formed a complete loop of the city, passing through various islands. If we say the commercial centre of the city was in the middle, most of the residents arrived on the monorail from the right, and I put my airport and harbour on the left. That increased utilisation of the clockwise looping line which was otherwise pretty quiet.
 
-### **Keeping your lines separate**
+## **Keeping your lines separate**
 
 ![Passing rail lines](/images/separate-lines.jpg)
 
@@ -142,7 +139,7 @@ Even once you’ve built a harbour and airport, a lot of tourists will want to c
 
 If you haven’t got the space or budget to run separate lines, you can at least uncheck ‘Allow Intercity Trains’ so that they pass quickly through your district stations on their way into town.
 
-### **Is it worth building multiple transit hubs?**
+## **Is it worth building multiple transit hubs?**
 
 ![Rail hub](/images/hub-rail-tourists.jpg)
 
@@ -156,7 +153,7 @@ Second, tourists will usually stick to whatever is quickest or closest to their 
 
 When it comes to trains, you’ve got a bit more flexibility. If you’re able to dedicate one line on hub stations to outside lines, regional trains can drop passengers in several places. If you’ve already got the station in place anyway, you’re not adding any upkeep cost, so it works out.
 
-### **The Space Elevator**
+## **The Space Elevator**
 
 ![Space Elevator](/images/space-elevator.jpg)
 
@@ -172,7 +169,7 @@ Thematically, the one time I used it, I preferred to think of it like the Space 
 
 But whatever it does, tons of extra tourists arrive in your city and spend their money. Its tower also looks pretty great poking up among your downtown skyscrapers, big wheels and observation decks.
 
-### **Roundup**
+## **Roundup**
 
 ![Beached ship](/images/beached-ship.jpg)
 
@@ -182,4 +179,4 @@ In short: build up your attractiveness with unique buildings and parks and bring
 
 I hope you found this helpful! Really, I’m answering all the questions I had when I was figuring out how tourism works in this game. I’d love to know what you think: if I’ve got anything wrong or missed key details. Or if there’s other aspects you’d like me to cover.
 
-If you liked this content and want to buy any of the products I’ve talked about, you can support the site, donate to charity and (usually) save money all at the same time by using my links to Humble Bundle. Once you receive your product key, activate it on Steam, and you’re away! Thank you so much. Links are on the [About](/about.md) page.
+If you liked this content and want to buy any of the products I’ve talked about, you can support the site, donate to charity and (usually) save money all at the same time by using my links to Humble Bundle. Once you receive your product key, activate it on Steam, and you’re away! Thank you so much. Links are on the [About](/about/) page.
