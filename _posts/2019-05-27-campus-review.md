@@ -9,8 +9,6 @@ excerpt: "Campus is here! The new expansion is the eighth major DLC for Cities: 
 cover-img: "/images/campus-dlc-cities-skylines.jpg"
 ---
 
-# Campus expansion review
-
 Campus is here! The new expansion is the eighth major DLC for Cities: Skylines, and gives us a major overhaul of higher education. It leans on the mechanics in Parklife and Industries to let us make education a more significant and functional part of our cities. It’s a big improvement on the previously passive system of simply dropping a few university buildings in population centres.
 
 I’ve had a chance to play with the new campus types and fully level one of them up. Here’s what I think.

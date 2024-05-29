@@ -9,8 +9,6 @@ excerpt: "Land value is one of the factors that let buildings upgrade to their h
 cover-img:
 ---
 
-# Land Value - the Complete Guide
-
 ![Upgraded housing](/images/upgraded-housing.jpg)
 
 In Cities: Skylines, land value is one of the factors that let buildings upgrade to their highest levels. Without high enough value, the city won’t be able to earn the big bucks that come from residential taxes. At worst, buildings won’t spawn at all in an undesirable place.

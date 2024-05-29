@@ -9,8 +9,6 @@ excerpt: "In the early game, it can be difficult to balance the books, especiall
 cover-img: "/images/upgraded-housing.jpg"
 ---
 
-# 10 Tips for Making Money in Cities: Skylines
-
 ![Mixed use residential area](/images/mixed-use-residential.jpg)
 
 In Cities: Skylines, money isn’t too hard to make. Once the city reaches a few tens of thousands - assuming it’s relatively well-managed - you’ll probably be sitting on a few million in the bank and have enough to build pretty much whatever you need.

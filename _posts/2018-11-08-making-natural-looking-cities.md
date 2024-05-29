@@ -9,8 +9,6 @@ excerpt: "How do we make a city feel like a real place? How can we make it feel 
 cover-img:
 ---
 
-# Creating Natural, Authentic Looking Cities
-
 ![Mixed use housing](/images/mixed-use-housing.jpg)
 
 How do we make a city feel like a real place? How can we make it feel alive - like it exists independently of us?
