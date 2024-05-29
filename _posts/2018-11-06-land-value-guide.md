@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Land Value - the Complete Guide"
 date: "2018-11-06"
 permalink: "/land-value-guide/"
@@ -7,7 +6,7 @@ author: "SEPECAT"
 categories: "Guides"
 tags:
 excerpt: "Land value is one of the factors that let buildings upgrade to their highest levels. Without high enough value, the city won’t be able to earn the big bucks." 
-image:
+cover-img:
 ---
 
 # Land Value - the Complete Guide

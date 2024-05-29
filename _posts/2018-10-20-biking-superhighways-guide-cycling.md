@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Biking Superhighways: Guide to Cycling for Medium-Distance Travel"
 date: "2018-10-20"
 permalink: "/biking-superhighways-guide-cycling/"
@@ -7,10 +6,8 @@ author: "SEPECAT"
 categories: "Guides"
 tags:
 excerpt: "Biking arrived in After Dark. Suddenly, using the bike-only path, we can build huge networks of fast, direct cycle highways." 
-image: "/images/20181020140053_1.jpg"
+cover-img: "/images/20181020140053_1.jpg"
 ---
-
-# Biking Superhighways: Guide to Cycling for Medium-Distance Travel
 
 ![Bike and cycle highway](/images/bike-cycle-highway.jpg)
 

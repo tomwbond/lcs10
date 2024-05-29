@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Industries Expansion Review: The Supply Chain DLC"
 date: "2018-10-31"
 permalink: "/industries-expansion-review/"
@@ -9,8 +8,6 @@ tags:
 excerpt: "I already enjoy the way the game handles industry, but I always felt there was scope for more depth and control. It looks like I got my wish!" 
 image:
 ---
-
-# Industries Expansion Review: The Supply Chain DLC
 
 ![Farming industrial area](/images/farming-area-view.jpg)
 

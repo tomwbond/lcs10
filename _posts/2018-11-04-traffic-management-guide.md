@@ -6,7 +6,7 @@ author: "SEPECAT"
 categories: "Guides"
 tags:
 excerpt: "In Cities: Skylines, every city is unique. But there are general principles that always apply for good traffic flow no matter what." 
-image:
+cover-img:
 ---
 
 ![Traffic overlay](/images/traffic-overlay-good-traffic.jpg)

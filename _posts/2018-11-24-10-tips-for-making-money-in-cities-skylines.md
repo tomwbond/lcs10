@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "10 Tips for Making Money in Cities: Skylines"
 date: "2018-11-24"
 permalink: "/10-tips-for-making-money-in-cities-skylines/"
@@ -7,7 +6,7 @@ author: "SEPECAT"
 categories: "Tips"
 tags:
 excerpt: "In the early game, it can be difficult to balance the books, especially by expanding too quickly. Here’s a few tips." 
-image: "/images/upgraded-housing.jpg"
+cover-img: "/images/upgraded-housing.jpg"
 ---
 
 # 10 Tips for Making Money in Cities: Skylines

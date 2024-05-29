@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "After Dark Review: the Tourism Expansion"
 date: "2018-09-16"
 permalink: "/after-dark-review-tourism-expansion/"
@@ -7,10 +6,8 @@ author: "SEPECAT"
 categories: "DLC Reviews"
 tags:
 excerpt: "The most striking addition in After Dark is the day/night cycle. Before that, Cities: Skylines played out entirely during the day." 
-image: "/images/skyline-night.jpg"
+cover-img: "/images/skyline-night.jpg"
 ---
-
-# After Dark Review: the Tourism Expansion
 
 ![Leisure specialisation around the casino](/images/leisure-specialisation.jpg)
 

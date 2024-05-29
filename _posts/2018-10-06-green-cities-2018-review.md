@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Green Cities Review: The Problem-Fixing Expansion"
 date: "2018-10-06"
 permalink: "/green-cities-2018-review/"
@@ -7,10 +6,8 @@ author: "SEPECAT"
 categories: "DLC Reviews"
 tags:
 excerpt: "Green Cities makes it easier to build cities people want to live in by helping you fix a lot of your problems." 
-image:
+cover-img:
 ---
-
-# Green Cities Review: The Problem-Fixing Expansion
 
 ![Community School](/images/community-school-green-cities.jpg)
 

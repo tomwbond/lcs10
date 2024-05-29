@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Guide to Fix 'Not Enough Workers' Even When You Have High Unemployment"
 date: "2018-09-10"
 permalink: "/not-enough-workers-high-unemployment/"
@@ -7,10 +6,8 @@ author: "SEPECAT"
 categories: "Tips"
 tags:
 excerpt: "Something a lot of us run into is buildings saying they don’t have enough workers when it seems like there’s more than enough to go around. Let's try to fix it."
-image: "/images/not-enough-workers-high-unemployment.jpg"
+cover-img: "/images/not-enough-workers-high-unemployment.jpg"
 ---
-
-# Guide to Fix 'Not Enough Workers' Even When You Have High Unemployment
 
 ![Not enough workers with high unemployment](/images/not-enough-workers.jpg)
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Campus DLC: a guide to universities and hitting ‘Prestigious’"
 date: "2019-05-28"
 permalink: "/guide-campus-dlc-universities/"
@@ -7,10 +6,8 @@ author: "SEPECAT"
 categories: "Guides"
 tags:
 excerpt: "Campus overhauls higher education. It brings together ideas from Parklife and Industries and applies them to universities." 
-image:
+cover-img:
 ---
-
-# Campus DLC: a guide to universities and hitting ‘Prestigious’
 
 Campus is Cities: Skylines’ eighth expansion, and gives us a complete overhaul of the higher education system. It brings together ideas introduced in Parklife, Industries and Match Day DLCs and applies them to the university system in the game. 
 

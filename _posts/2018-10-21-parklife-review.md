@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Parklife Review: A Whole New Way to Play"
 date: "2018-10-21"
 permalink: "/parklife-review/"
@@ -7,10 +6,8 @@ author: "SEPECAT"
 categories: "DLC Reviews"
 tags:
 excerpt: "Parklife freshened up the formula, added systems we hadn’t seen before and gave us expansive parks that can define, or redefine, whole parts of the city." 
-image:
+cover-img:
 ---
-
-# Parklife Review: A Whole New Way to Play
 
 ![Nature reserve tents](/images/nature-reserve-tents.jpg)
 
@@ -22,7 +19,7 @@ Patch 1.10, which released alongside Parklife, was a hefty bug-fixing update. It
 
 Perhaps most significant was that noise got an overhaul. With 1.10, trees now dampen noise, meaning you can put loud buildings like stations closer to residential areas by ringing them with trees. Beautification itself got easier with lots of new trees and rocks added.
 
-# The big story in Parklife
+## The big story in Parklife
 
 ![Parklife amusement park island](/images/amusement-park-island-night.jpg)
 

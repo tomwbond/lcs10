@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Industries Expansion Preview"
 date: "2018-10-13"
 permalink: "/industries-expansion-preview/"
@@ -9,8 +8,6 @@ tags:
 excerpt: "I always felt there was scope for more depth and control, so it looks like I got my wish! I can’t wait to see how Industries will add to the game." 
 image:
 ---
-
-# Industries Expansion Preview
 
 ![Farming specialistion](/images/farming-industry-specialisation.jpg)
 

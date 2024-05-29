@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Creating Natural, Authentic Looking Cities"
 date: "2018-11-08"
 permalink: "/making-natural-looking-cities/"
@@ -7,7 +6,7 @@ author: "SEPECAT"
 categories: "Guides"
 tags:
 excerpt: "How do we make a city feel like a real place? How can we make it feel alive - like it exists independently of us?" 
-image:
+cover-img:
 ---
 
 # Creating Natural, Authentic Looking Cities

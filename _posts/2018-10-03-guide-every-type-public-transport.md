@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Guide to Every Type of Public Transport"
 date: "2018-10-13"
 permalink: "/guide-every-type-public-transport/"
@@ -7,10 +6,8 @@ author: "SEPECAT"
 categories: "Guides"
 tags:
 excerpt: "I love Cities: Skylines’ public transport. Especially how satisfying it is to link up different types." 
-image: "/images/monorail.jpg"
+cover-img: "/images/monorail.jpg"
 ---
-
-# A Guide to Every Type of Public Transport
 
 ![Tourism specialisation](/images/tourism-specialisation.jpg)
 

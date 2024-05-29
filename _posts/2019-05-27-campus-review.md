@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Campus expansion review"
 date: "2019-05-27"
 permalink: "/campus-review/"
@@ -7,7 +6,7 @@ author: "SEPECAT"
 categories: "DLC Reviews"
 tags:
 excerpt: "Campus is here! The new expansion is the eighth major DLC for Cities: Skylines, and gives us a major overhaul of higher education." 
-image: "/images/campus-dlc-cities-skylines.jpg"
+cover-img: "/images/campus-dlc-cities-skylines.jpg"
 ---
 
 # Campus expansion review
@@ -26,7 +25,7 @@ Industry 4.0 is a significant new city policy that helps to solve a key late-gam
 
 Elsewhere, citizens have now got job titles!
 
-### **Campus DLC overview**
+## **Campus DLC overview**
 
 ![Unique buildings in the city centre](/images/20190527110149_1.jpg)
 
@@ -38,7 +37,7 @@ Most of the buildings can be snapped to footpaths as well as roads, which is an 
 
 When implemented, campuses are genuinely sprawling. If you’ve put down all the buildings, they completely define whole parts of the city simply because of their footprint. The new institutions effectively replace the current single University building - but they also compete. Students, as far as I can tell, will still study at their local institution - or wherever they can get a place. For that reason, it’s worth sending all your students to the new type of university, since there, they’ll pay fees.
 
-### **New and distinct architecture for the city**
+## **New and distinct architecture for the city**
 
 ![Grand-looking campus buildings](/images/20190526115625_1.jpg)
 
@@ -50,7 +49,7 @@ Every academic work has a title and description, and the new models have had ple
 
 Unlike in Parklife, it’s not possible  to mix and match building types across university types - a Trade School building can only be built inside a Trade School. It’s also worth saying the campus zones are on the same level as Industries DLC zones, so they can’t overlap each other.
 
-### **Levelling up and micromanagement**
+## **Levelling up and micromanagement**
 
 ![Academic year report screen](/images/20190527141407_1.jpg)
 
@@ -72,7 +71,7 @@ The result of these new systems is that you’ll need to work quite hard over qu
 
 As the university levels up, tuition fees per student increase, as does the number of students coming from other towns - a completely new feature - who also count towards tourism in the city. Eventually, you’ll even secure sponsorship for your Varsity teams, reducing their upkeep.
 
-### **New faculties to boost city services**
+## **New faculties to boost city services**
 
 ![A campus that is starting to sprawl](/images/20190527165427_1.jpg)
 
@@ -86,7 +85,7 @@ All in all, Campus leans quite heavily on ideas introduced in previous DLC. But 
 
 But there are some new ideas. The Public Library is a good example. When residents visit, they have a chance to gain an educational level. That helps address the problems when setting up new neighbourhoods, since adults move in uneducated, and are too old to go to school. This way, they can still progress without you need to wait for the next generation.
 
-### **Campus: should you buy it?**
+## **Campus: should you buy it?**
 
 ![Athletics stadium](/images/20190527165128_1.jpg)
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Guide to Efficient City Cargo Trains"
 date: "2018-10-05"
 permalink: "/guide-efficient-city-cargo-trains/"
@@ -7,10 +6,8 @@ author: "SEPECAT"
 categories: "Guides"
 tags:
 excerpt: "Getting your cargo on rails is one of the best ways of fixing your traffic. Combine good rail cargo with efficient public transport for serene roads." 
-image:
+cover-img:
 ---
-
-# Guide to Efficient City Cargo Trains
 
 ![Cargo hub at night](/images/cargo-hub-night.jpg)
 

@@ -6,7 +6,7 @@ author: "SEPECAT"
 categories: "Tips"
 tags:
 excerpt: "Now while we can’t remove them, there is a way we can add them without having to build a junction!"
-image: 
+cover-img: 
 ---
 
 In Cities: Skylines, as in life, crosswalks (or pedestrian crossings where I’m from!) let pedestrians, cyclists and dogs get from one side of the street to the other safely. They get added automatically at junctions and intersections.

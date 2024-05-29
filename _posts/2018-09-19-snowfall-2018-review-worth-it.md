@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Snowfall DLC Review: Is It Worth It?"
 date: "2018-09-19"
 permalink: "/snowfall-2018-review-worth-it/"
@@ -7,10 +6,8 @@ author: "SEPECAT"
 categories: "DLC Reviews"
 tags:
 excerpt: "Snowfall was the second expansion for Cities: Skylines. It released in early 2016 and brought winter, new maps, new buildings and trams to the game." 
-image: "/images/night-snowfall-dlc.jpg"
+cover-img: "/images/night-snowfall-dlc.jpg"
 ---
-
-# Snowfall DLC Review: Is It Worth It?
 
 ![Residential area at night](/images/residential-snowfall-night.jpg)
 

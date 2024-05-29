@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Death Wave: What It Is, How To Avoid It"
 date: "2018-09-03"
 permalink: "/death-wave-how-to-avoid/"
@@ -7,10 +6,8 @@ author: "SEPECAT"
 categories: "Tips"
 tags:
 excerpt: "Everything is ticking along nicely in your city when, all of a sudden, *everyone is dead!* What’s going on?"
-image: "/images/death-wave.jpg"
+cover-img: "/images/death-wave.jpg"
 ---
-
-# The Death Wave: What It Is, How To Avoid It
 
 ![Death wave in action](/images/death-wave-suburbs.jpg)
 

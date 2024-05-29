@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Specialised Industry for an End-to-End Supply Chain in Cities: Skylines"
 date: "2018-09-09"
 permalink: "/supply-chain-specialised-industry/"
@@ -7,10 +6,8 @@ author: "SEPECAT"
 categories: "Guides"
 tags:
 excerpt: "In Cities: Skylines, there is a real supply chain. The game models the movement of goods from one place to another, rather than simulating it in an abstract way."
-image: "/images/20180908173623_1.jpg"
+cover-img: "/images/20180908173623_1.jpg"
 ---
-
-# Specialised Industry for an End-to-End Supply Chain in Cities: Skylines
 
 ![Forestry trucks supply chain](/images/20180907164155_1.jpg)
 
@@ -24,7 +21,7 @@ It’s possible to fulfil all of those steps yourself, some of them, or just the
 
 That means you can easily build a city however you like: you could do no industry whatsoever, and have your shops just import everything they need. Or you can manage everything internally. Or, if you like, you could set yourself up an exporting powerhouse supplying the world.
 
-### Setting up a complete supply chain
+## Setting up a complete supply chain
 
 ![Supply chain flowchart](/images/supply-chain-flowchart.jpg)
 
@@ -38,7 +35,7 @@ If you’re going for an industrial city, I think it’s OK to use the Unlimited
 
 By the way, specialised industries only have a single level - the buildings don’t and can’t upgrade. That means you don’t need to worry too much about services although you’ll want plenty of fire coverage. That’s especially true of the oil fields - huge blazes are routine.
 
-### Sourcing the raw materials
+## Sourcing the raw materials
 
 ![Natural resources on the map](/images/20180909133940_1.jpg)
 
@@ -50,7 +47,7 @@ Two of the resources - forestry and farming - are renewable. In other words, the
 
 However, that doesn’t make those areas useless. After a while, the oil and ore extractors will close down, and be replaced by processors. When that happens, the processors will import raw materials if there’s no supply in the city.
 
-### Going for zero imports
+## Going for zero imports
 
 ![Imports and exports](/images/20180909161921_1.jpg)
 
@@ -64,7 +61,7 @@ On the Exports tab, you can check over-capacity. All the coloured buildings are 
 
 Keep in mind that there can be a bit of lag because cargo needs to physically move about. If you’ve got shops importing goods and add you add new industrial areas, it’ll take quite a while before you see the effect. It makes sense to make zoning changes gradually for that reason.
 
-### The flow of goods
+## The flow of goods
 
 ![Gridlock. An example of my bad traffic management.](/images/gridlock-2.jpg)
 
@@ -80,7 +77,7 @@ It’s important to remember that cargo traffic returns to where it came from, s
 
 One small extra thing: the oil industry can supply your oil-fired power plants, and ore can do the same for the coal plants, which is a nice touch.
 
-### How the Organic and Local Produce specialisation mixes things up
+## How the Organic and Local Produce specialisation mixes things up
 
 ![Organic and local specialisation](/images/organic-specialisation-1.jpg)
 
@@ -90,7 +87,7 @@ They buy in materials from processors in agricultural areas then finish the prod
 
 This has two effects: first, a full 50% fewer trucks delivering cargo, which is massive if you’ve got congestion problems. Second, demand for agricultural processed materials will go up a bit while demand for finished products goes down. Unless your entire city uses organic areas, that shouldn’t matter too much, but it’s worth keeping an eye on imports and exports just in case.
 
-### Does a complete supply chain make money?
+## Does a complete supply chain make money?
 
 ![Oil fields export](/images/20180909161952_1.jpg)
 
@@ -102,7 +99,7 @@ If you choose to go with heavy industry instead of an office city, you can benef
 
 Either way, an industrial city is totally viable.
 
-### Roundup
+## Roundup
 
 ![Oil fields fire](/images/20180908173744_1.jpg)
 
