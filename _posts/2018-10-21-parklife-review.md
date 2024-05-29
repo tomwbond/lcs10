@@ -6,7 +6,7 @@ author: "SEPECAT"
 categories: "DLC Reviews"
 tags:
 excerpt: "Parklife freshened up the formula, added systems we hadn’t seen before and gave us expansive parks that can define, or redefine, whole parts of the city." 
-cover-img: "/images/944d3-archipelago-amusement-park-night.jpg"
+cover-img: "/images/archipelago-amusement-park-night.jpg"
 ---
 
 ![Nature reserve tents](/images/nature-reserve-tents.jpg)

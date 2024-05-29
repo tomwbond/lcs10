@@ -6,7 +6,7 @@ author: "SEPECAT"
 categories: "DLC Reviews"
 tags:
 excerpt: "I already enjoy the way the game handles industry, but I always felt there was scope for more depth and control. It looks like I got my wish!" 
-image: "/images/bed8d-refinery-plant.jpg"
+image: "/images/refinery-plant.jpg"
 ---
 
 ![Farming industrial area](/images/farming-area-view.jpg)

@@ -6,7 +6,7 @@ author: "SEPECAT"
 categories: "Guides"
 tags:
 excerpt: "Getting your cargo on rails is one of the best ways of fixing your traffic. Combine good rail cargo with efficient public transport for serene roads." 
-cover-img: "/images/7ada4-public-transport-trains.jpg"
+cover-img: "/images/public-transport-trains.jpg"
 ---
 
 ![Cargo hub at night](/images/cargo-hub-night.jpg)
