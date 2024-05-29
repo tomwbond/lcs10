@@ -86,4 +86,4 @@ And even though the new transit types are a bit niche, as I wrote about [here](/
 
 I’m not sure there’s any downside, although if public transport really isn’t your thing, there might be other expansions to prioritise. Either way, at this stage of the game’s life, I’d suggest looking around for a sale.
 
-*Thanks so much for reading! I hope you liked the article and found it useful. If you end up buying Mass Transit and would like to support this site, you can use these links: [Humble Bundle](https://www.humblebundle.com/store/cities-skylines-mass-transit?partner=twcb), [Green Man Gaming](https://www.greenmangaming.com/games/cities-skylines-mass-transit/?tap_a=1964-996bbb&tap_s=339337-f53b1f), [Fanatical](http://www.anrdoezrs.net/links/8883448/type/dlg/https://www.fanatical.com/en/dlc/cities-skylines-mass-transit). Thanks again!*
+*Thanks so much for reading! I hope you liked the article and found it useful. If you end up buying Mass Transit and would like to support this site, you can use this link: [Humble Bundle](https://www.humblebundle.com/store/cities-skylines-mass-transit?partner=twcb). Thanks again!*

@@ -102,4 +102,4 @@ So, if building a snowy city sounds fun, or trams are essential for you, then Sn
 
 Thanks for reading!
 
-*If you end up buying Snowfall and found this review useful, you can support the site and help keep me writing by using one of these affiliate links:* [*Humble Bundle*](https://www.humblebundle.com/store/cities-skylines-snowfall?partner=twcb)*,* [Fanatical](http://www.anrdoezrs.net/links/8883448/type/dlg/https://www.fanatical.com/en/dlc/cities-skylines-snowfall-dlc)*. Thanks so much!*
+*If you end up buying Snowfall and found this review useful, you can support the site and help keep me writing by using this affiliate link: [Humble Bundle](https://www.humblebundle.com/store/cities-skylines-snowfall?partner=twcb). Thanks so much!*

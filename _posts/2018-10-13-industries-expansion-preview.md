@@ -67,4 +67,4 @@ After Parklife, I’ve got a lot of confidence in Colossal Order’s direction f
 
 Industries launches on October 23rd 2018.
 
-*Thanks for reading! If you end up buying Industries and would like to support the site (thanks so much!) you can pick up the DLC using these affiliate links: [Humble Bundle](https://www.humblebundle.com/store/cities-skylines-industries?partner=twcb&charity=136345) / [Fanatical](http://www.anrdoezrs.net/links/8883448/type/dlg/https://www.fanatical.com/en/dlc/cities-skylines-industries-plus) / [Green Man Gaming](https://www.greenmangaming.com/games/cities-skylines-industries-plus/?tap_a=1964-996bbb&tap_s=339337-f53b1f). Thanks again!*
+*Thanks for reading! If you end up buying Industries and would like to support the site (thanks so much!) you can pick up the DLC using these affiliate links: [Humble Bundle](https://www.humblebundle.com/store/cities-skylines-industries?partner=twcb&charity=136345). Thanks again!*

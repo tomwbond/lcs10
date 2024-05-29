@@ -83,4 +83,4 @@ As you’ll probably see from other articles I write, I really prize variety whe
 
 For all those reasons, I think Parklife is an essential expansion, and always features at or near the top of my list of recommendations.
 
-*Thanks so much for reading! If you end up buying Parklife and would like to support the site, you can use these affiliate links: [Humble Bundle](https://www.humblebundle.com/store/cities-skylines-parklife?partner=twcb), [Fanatical](http://www.anrdoezrs.net/links/8883448/type/dlg/https://www.fanatical.com/en/dlc/cities-skylines-parklife). Thanks again!*
+*Thanks so much for reading! If you end up buying Parklife and would like to support the site, you can use these affiliate links: [Humble Bundle](https://www.humblebundle.com/store/cities-skylines-parklife?partner=twcb). Thanks again!*

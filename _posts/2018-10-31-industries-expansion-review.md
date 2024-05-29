@@ -95,4 +95,4 @@ That said, it’s very possible to just build small-scale forestry and farming a
 
 Ultimately, Industries is a weighty expansion that addresses one of the game’s thinner systems in a satisfying way. It gets my enthusiastic thumbs up.
 
-*Thanks for reading! If you found it useful and you end up buying Industries, you can support the site by using one of my affiliate links: [Humble Bundle](https://www.humblebundle.com/store/cities-skylines-industries?partner=twcb&charity=136345), [Fanatical](http://www.anrdoezrs.net/links/8883448/type/dlg/https://www.fanatical.com/en/dlc/cities-skylines-industries-plus), [Green Man Gaming](https://www.greenmangaming.com/games/cities-skylines-industries-plus/?tap_a=1964-996bbb&tap_s=339337-f53b1f). So you know, I bought the expansion (I didn’t have a review copy). Thanks so much!*
+*Thanks for reading! If you found it useful and you end up buying Industries, you can support the site by using one of my affiliate links: [Humble Bundle](https://www.humblebundle.com/store/cities-skylines-industries?partner=twcb&charity=136345). So you know, I bought the expansion (I didn’t have a review copy). Thanks so much!*
