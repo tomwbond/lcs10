@@ -6,7 +6,7 @@ author: "SEPECAT"
 categories: "Guides"
 tags:
 excerpt: "Getting your cargo on rails is one of the best ways of fixing your traffic. Combine good rail cargo with efficient public transport for serene roads." 
-cover-img:
+cover-img: "/images/7ada4-public-transport-trains.jpg"
 ---
 
 ![Cargo hub at night](/images/cargo-hub-night.jpg)
@@ -15,7 +15,7 @@ Getting your cargo on rails is one of the best ways of fixing your traffic probl
 
 Rail freight works pretty similarly to passenger transport. If it shortens the journey, cargo will (like a person) find its way to a station, loads itself up, unload at the closest station to its destination, then drive the rest of the way.
 
-By putting stations, harbours and hubs near where cargo is coming from and near where it’s going, whole sections of the journey won’t need to be made on the road. I’ve got an article about other ways of [reducing traffic](2018-09-02-reduce-manage-traffic-cities-skylines.md).
+By putting stations, harbours and hubs near where cargo is coming from and near where it’s going, whole sections of the journey won’t need to be made on the road. I’ve got an article about other ways of [reducing traffic](/reduce-manage-traffic-cities-skylines/).
 
 *Compatibility:* *Here I’m writing about the vanilla unmodded game so it applies across the PC, Mac, Linux, Xbox, PS4 and Switch versions. I’ve got all the expansions installed but only After Dark’s Cargo Hub isn’t in the base game.*
 
@@ -23,11 +23,11 @@ By putting stations, harbours and hubs near where cargo is coming from and near 
 
 ![Supply chain flowchart](/images/supply-chain-flowchart.jpg)
 
-*This graphic is from the* [*Supply chain*](2018-09-09-supply-chain-specialised-industry.md) *article but works here too.*
+*This graphic is from the* [*Supply chain*](/supply-chain-specialised-industry/) *article but works here too.*
 
 Cargo can travel on rails for any part of its journey. If it’s the fastest option, trucks will go the nearest cargo station and unload at the station nearest to the destination.
 
-To see more about who needs what and when this [supply chain article](2018-09-09-supply-chain-specialised-industry.md) might be useful. But in essence (hopefully the graphic above makes sense) it works like this:
+To see more about who needs what and when this [supply chain article](/supply-chain-specialised-industry/) might be useful. But in essence (hopefully the graphic above makes sense) it works like this:
 
 - Specialised industry spawns two types of building. The raw material producers only export products (whether internally or externally), the secondary processors import and export. The generic industry buildings do the same, while commercial zones only import.
 
@@ -91,6 +91,6 @@ It’s best to keep passenger lines totally separate (and split those into touri
 
 The problem with outside trains - both passenger and freight - is that they often arrive in the city with very small loads and sometimes make an unusual series of stops, before sometimes heading back out almost empty too. Too many of those and you’ll end up with trains traffic jams.
 
-Depending on your setup, you might also want to split your cargo lines into internal and external. It would be expensive to have a whole separate stack of stations, but it might make sense depending on how you’ve set up your [supply chain](2018-09-09-supply-chain-specialised-industry.md).
+Depending on your setup, you might also want to split your cargo lines into internal and external. It would be expensive to have a whole separate stack of stations, but it might make sense depending on how you’ve set up your [supply chain](/supply-chain-specialised-industry/).
 
 *I hope you found this helpful! Thanks for reading.*

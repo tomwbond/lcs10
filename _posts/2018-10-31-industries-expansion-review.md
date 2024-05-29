@@ -6,12 +6,12 @@ author: "SEPECAT"
 categories: "DLC Reviews"
 tags:
 excerpt: "I already enjoy the way the game handles industry, but I always felt there was scope for more depth and control. It looks like I got my wish!" 
-image:
+image: "/images/bed8d-refinery-plant.jpg"
 ---
 
 ![Farming industrial area](/images/farming-area-view.jpg)
 
-Cities: Skylines Industries launched a week ago, marking the seventh major DLC added to the game. As you’ll know if you’ve read my articles about the [Supply chain](2018-09-09-supply-chain-specialised-industry.md) and [cargo trains](2018-10-05-guide-efficient-city-cargo-trains.md), I already enjoy the way the game handles industry, but I always felt there was scope for more depth and control. It looks like I got my wish!
+Cities: Skylines Industries launched a week ago, marking the seventh major DLC added to the game. As you’ll know if you’ve read my articles about the [Supply chain](/supply-chain-specialised-industry/) and [cargo trains](/guide-efficient-city-cargo-trains/), I already enjoy the way the game handles industry, but I always felt there was scope for more depth and control. It looks like I got my wish!
 
 Overall, I’m impressed. More than three years in and Colossal Order are clearly not running out of steam. This expansion builds on good existing systems and adds new ones. It’s also a very visual update - a lot of the new buildings are truly enormous. Huge smokestacks, pits, greenhouses and pastures dominate areas and skylines.
 
@@ -33,7 +33,7 @@ Every new building has live, detailed information about what it needs, what it h
 
 ## Money-making industrial towns
 
-![Forestry areas](/imagesforestry-area-view-2.jpg)
+![Forestry areas](/images/forestry-area-view-2.jpg)
 
 I like building clean, green, low-impact cities. But I also like heavy, gritty industrial towns. The Industries expansion gives us a really satisfying way to play. Although industrial towns are certainly possible without it, they get a bit samey. There’s not much you can do aesthetically, not a lot of management and not much financial incentive either. Now, we’ve got all three.
 
@@ -59,7 +59,7 @@ I think the devs have added about the right level of detail and micromanagement.
 
 ![Car factory Industries](/images/car-factory.jpg)
 
-In my [preview](2018-10-13-industries-expansion-preview.md), I wondered how the new industries would relate or integrate with what’s already in the game. And in general, they exist separately, but certain production does pass between the two. Spare goods can be sold to the corresponding zoned industry, or exported, and raw agricultural produce from farms can be sent to Unique factories such as the bakery (thanks to my friend Glitcher for spotting that - I didn't notice originally).
+In my [preview](/industries-expansion-preview/), I wondered how the new industries would relate or integrate with what’s already in the game. And in general, they exist separately, but certain production does pass between the two. Spare goods can be sold to the corresponding zoned industry, or exported, and raw agricultural produce from farms can be sent to Unique factories such as the bakery (thanks to my friend Glitcher for spotting that - I didn't notice originally).
 
 Other intersections including goods from Unique factories making their way to your commercial areas, the same as generic zoned industry.
 
@@ -79,7 +79,7 @@ There’s a deeper focus here not just on smooth traffic, but on actually gettin
 
 ![Cargo airport](/images/cargo-airport-1.jpg)
 
-The cargo airports are a fantastic addition. As long as there’s enough room to place it, it’s like dropping a shipping lane exactly where you need it. And by adding the hub airport with the integrated train station, Colossal Order made me extremely happy! I love that building. It also makes the roads around the airport vastly more efficient. On a small note, [cargo trains](2018-10-05-guide-efficient-city-cargo-trains.md) are more interesting now, pulling cargo-appropriate cars like oil tanks.
+The cargo airports are a fantastic addition. As long as there’s enough room to place it, it’s like dropping a shipping lane exactly where you need it. And by adding the hub airport with the integrated train station, Colossal Order made me extremely happy! I love that building. It also makes the roads around the airport vastly more efficient. On a small note, [cargo trains](/guide-efficient-city-cargo-trains/) are more interesting now, pulling cargo-appropriate cars like oil tanks.
 
 The DLC adds five new maps that include plenty of resources and some nicely challenging geography like Twin Fjords. I’m looking forward to building a new industry-focused city on a Boreal map where I think the aesthetic will look fantastic. I like that one especially because a combination of coasts, rivers, hills and mountains make for more realistic cities that look like a product of their environment. I also spy a brilliant place for a nature reserve.
 

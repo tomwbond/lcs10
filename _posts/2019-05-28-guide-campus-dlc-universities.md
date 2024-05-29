@@ -6,7 +6,7 @@ author: "SEPECAT"
 categories: "Guides"
 tags:
 excerpt: "Campus overhauls higher education. It brings together ideas from Parklife and Industries and applies them to universities." 
-cover-img:
+cover-img: "/images/8c465-20190528155221_1.jpg"
 ---
 
 Campus is Cities: Skylines’ eighth expansion, and gives us a complete overhaul of the higher education system. It brings together ideas introduced in Parklife, Industries and Match Day DLCs and applies them to the university system in the game. 
@@ -74,7 +74,7 @@ I think both work, and in the real world it’s not uncommon for city-based univ
 
 ![Campus DLC](/images/20190526123043_1-1-1024x576.jpg)
 
-Keep in mind that demographics in the city change regularly. New people arrive, people grow up, move into the workforce, and die. This change in demographics is the force behind the [Death Wave](2018-09-03-death-wave-how-to-avoid.md) I’ve written about, and it also appears here.
+Keep in mind that demographics in the city change regularly. New people arrive, people grow up, move into the workforce, and die. This change in demographics is the force behind the [Death Wave](/death-wave-how-to-avoid/) I’ve written about, and it also appears here.
 
 I’ve watched in dismay as my newly ranked up university immediately loses its status as student number inexplicably plummet. I haven’t changed anything - it’s just that there are fewer eligible students for whatever reason.
 
@@ -104,7 +104,7 @@ However, there’s a welcome new mechanic. The DLC introduces five huge sports a
 
 The difference with these arenas is that if you include them within the painted Campus zone, they become home to a Varsity team made up of university students instead. This links your sporting success to the campus and wins (and losses!), trophies and range of sports are all tallied up and added to the Campus Attractiveness score.
 
-As an aside, as I mentioned in [my review of Campus](https://www.lovecitiesskylines.com/campus-review/), I really like that the devs have begun interlinking these systems a bit better, and I hope we see more of that in the future and in Cities: Skylines 2!
+As an aside, as I mentioned in [my review of Campus](/campus-review/), I really like that the devs have begun interlinking these systems a bit better, and I hope we see more of that in the future and in Cities: Skylines 2!
 
 ## Nine Faculties to help improve the city
 
@@ -173,4 +173,4 @@ Before I finish, I just wanted to reiterate something I mentioned in the review.
 
 The Library means some of your residents will be able to level up even without attending school, which makes office zones and higher ranked industrial zones viable much sooner than they used to be. 
 
-**Have fun building campuses! The DLC is pretty new, so if there’s intricacies I’ve got wrong here, or if there’s things you’d like me to cover, [let me know](/about.md)!**
+**Have fun building campuses! The DLC is pretty new, so if there’s intricacies I’ve got wrong here, or if there’s things you’d like me to cover, [let me know](/about/)!**

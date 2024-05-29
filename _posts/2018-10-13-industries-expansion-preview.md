@@ -6,14 +6,14 @@ author: "SEPECAT"
 categories: "DLC Reviews"
 tags:
 excerpt: "I always felt there was scope for more depth and control, so it looks like I got my wish! I can’t wait to see how Industries will add to the game." 
-image:
+image: "/images/44ece-night-industry-snowfall.jpg"
 ---
 
 ![Farming specialistion](/images/farming-industry-specialisation.jpg)
 
 It feels like it’s been hardly any time since Parklife - one of Cities: Skylines’ best DLC - was released to much fanfare in the summer, and Colossal Order have just announced that the game’s seventh expansion is just around the corner. Industries will launch alongside a free patch and a new radio station playing synth tracks.
 
-As you’ll know if you’ve read my articles about the [Supply chain](2018-09-09-supply-chain-specialised-industry.md) and [cargo trains](2018-10-05-guide-efficient-city-cargo-trains.md), I already enjoy the way the game handles industry. But I always felt there was scope for more depth and control, so it looks like I got my wish! I can’t wait to see how Industries will add to the game. Details are a bit thin on the ground as I write but I’ll talk about what we know and what I’m hoping for. Once the DLC is out and I’ve had time to play with it I’ll follow up with a review as well.
+As you’ll know if you’ve read my articles about the [Supply chain](/supply-chain-specialised-industry/) and [cargo trains](/guide-efficient-city-cargo-trains/), I already enjoy the way the game handles industry. But I always felt there was scope for more depth and control, so it looks like I got my wish! I can’t wait to see how Industries will add to the game. Details are a bit thin on the ground as I write but I’ll talk about what we know and what I’m hoping for. Once the DLC is out and I’ve had time to play with it I’ll follow up with a review as well.
 
 ## What’s Industries' big story?
 
@@ -33,7 +33,7 @@ In any case, the new overlays and panels to show us what’s going on under the 
 
 I love that the expansion is following on from Parklife’s park drawing tools. Industries will let us do the same thing but for industrial areas. You can specialise the area into one of the four resource types - which is no different than the current district tool - except it sounds like the specialised industrial buildings will now be able to level up - and that’s great news. Until now, there wasn’t a lot of incentive to deliver good city services to specialised zones, since the only thing that really mattered was decent traffic flow. Well, no more.
 
-I’m expecting higher-level buildings will pay higher taxes, employ better-educated citizens (helping to deal with the ‘not enough workers’ problem I’ve covered **here**), produce less pollution and noise.
+I’m expecting higher-level buildings will pay higher taxes, employ better-educated citizens (helping to deal with the ‘not enough workers’ problem I’ve covered [here](/not-enough-workers-high-unemployment/)), produce less pollution and noise.
 
 As well as zoned specialisation - which I assume still exists, we’ll now have a range of placeable buildings that are specific to each resource type, and they’ll unlock once we’ve place the area’s main buildings - a bit like placing the main gate for a Parklife park.
 

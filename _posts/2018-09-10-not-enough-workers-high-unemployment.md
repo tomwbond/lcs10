@@ -38,7 +38,7 @@ Often then, the problem is only temporary. And although you can use policies lik
 
 Now, although education is usually the big factor here, it's important to also check the basics. Make sure your transport options are functioning as expected.
 
-One thing that can cause a worker shortage is people finding it hard to get to work. If you’re lacking decent public transport options and you’ve got long tailbacks on the road, workers might be struggling to fill those jobs because they can't get there quickly enough before they despawn.  Some [guidance on public transport here](2018-10-03-guide-every-type-public-transport.md).
+One thing that can cause a worker shortage is people finding it hard to get to work. If you’re lacking decent public transport options and you’ve got long tailbacks on the road, workers might be struggling to fill those jobs because they can't get there quickly enough before they despawn.  Some [guidance on public transport here](/guide-every-type-public-transport/).
 
 Use the Traffic overlay to identify hotspots and also do a simple sense check that all the roads are actually connected and that you’ve not got some one-way system that’s causing people to have to leave the city and come back to get there. Check the Routes overlay for that, and make sure there's no weird behaviour going on.
 

@@ -6,7 +6,7 @@ author: "SEPECAT"
 categories: "Guides"
 tags:
 excerpt: "Land value is one of the factors that let buildings upgrade to their highest levels. Without high enough value, the city won’t be able to earn the big bucks." 
-cover-img:
+cover-img: "/images/90b04-housing-land-value.jpg"
 ---
 
 ![Upgraded housing](/images/upgraded-housing.jpg)
@@ -80,7 +80,7 @@ A lot of city policies can indirectly improve land values. Banning cargo traffic
 
 Parks and Recreation increases land value around parks, plazas and sports facilities. The tooltip doesn’t suggest any downside. The policy doesn’t appear to increase weekly upkeep - so I’m not sure why you wouldn’t leave it on.
 
-High Tech Housing is a bit clearer. It arrived with the [Green Cities](2018-10-06-green-cities-2018-review.md) expansion and for a cost, all homes within the policy area increase land value around them.
+High Tech Housing is a bit clearer. It arrived with the [Green Cities](/green-cities-2018-review/) expansion and for a cost, all homes within the policy area increase land value around them.
 
 ## Abandoned buildings
 
@@ -104,4 +104,4 @@ For me, the monuments are generally overpowered and a bit weird, so I don’t us
 
 ### Roundup
 
-There you go! I hope you found this useful. If I've missed anything, I'd love to know. [Drop me a message](/about.md).
+There you go! I hope you found this useful. If I've missed anything, I'd love to know. [Drop me a message](/about/).

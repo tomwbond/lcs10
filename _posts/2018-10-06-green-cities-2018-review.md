@@ -6,7 +6,7 @@ author: "SEPECAT"
 categories: "DLC Reviews"
 tags:
 excerpt: "Green Cities makes it easier to build cities people want to live in by helping you fix a lot of your problems." 
-cover-img:
+cover-img: "/images/76bc4-green-cities-high-density-housing.jpg"
 ---
 
 ![Community School](/images/community-school-green-cities.jpg)

@@ -39,7 +39,7 @@ The new commercial zones add enormously to the game. By choosing between generic
 
 Build a dingy resort along the waterfront or fill your city centre with towering hotels to cater to the tourists pouring out of your central station. It really gives cities flavour and a much clearer identity. They also gain a kind of story that’s lacking without the tools to expand beyond generic commercial areas.
 
-I love building cities for tourism [my tourism guide](2018-09-01-how-to-bring-more-tourists-to-your-city-in-cities-skylines.md) and After Dark makes major contributions to that, both mechanically and visually. 
+I love building cities for tourism [my tourism guide](/how-to-bring-more-tourists-to-your-city-in-cities-skylines/) and After Dark makes major contributions to that, both mechanically and visually. 
 
 ## Transport hubs and public transport options
 
@@ -94,7 +94,7 @@ For me, After Dark is a must-have expansion.
 
 The variety you get in commercial areas - functionally and visually - adds diversity to your city and real character to different parts of your city. It gives the place a better sense of story. Those gleaming - often characterless - hotels and areas of seedy nightlife make my town feel like a city.
 
-As someone who loves building cities around tourism my [tourism guide](2018-09-01-how-to-bring-more-tourists-to-your-city-in-cities-skylines.md), that makes it worth it.
+As someone who loves building cities around tourism my [tourism guide](/how-to-bring-more-tourists-to-your-city-in-cities-skylines/), that makes it worth it.
 The addition of biking and associated infrastructure isn’t often highlighted as a central feature - but it’s massive. You can take a lot of cars off the road and also create modern, low-impact cities more easily. There’s also helpful policies and a couple of situational but efficient hub buildings.
 
 Whether that’s enough for you will depend on your playstyle. What I love about the paid/free expansion format is that the vanilla game gets the most important engine updates automatically. That means pick up the game in 2018 and you’ll find a well-rounded and fully-featured city builder. The expansions add new ways to play, and not fixes.

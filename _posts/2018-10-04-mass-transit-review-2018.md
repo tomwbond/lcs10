@@ -82,7 +82,7 @@ I think Mass Transit is one of the most compelling additions to the game, and al
 
 It’s not just the variety it adds, but the ways of linking things together. The connections are not only functionally helpful, but they are also deeply satisfying to use. The hub buildings are excellent.
 
-And even though the new transit types are a bit niche, as I wrote about [here](2018-10-03-guide-every-type-public-transport.md), they are useful in almost every city. The monorail is a great alternative to the metro, and the cable car, ferries and blimps offer new ways of doing things. Just don’t expect them to handle main commuter lines.
+And even though the new transit types are a bit niche, as I wrote about [here](/guide-every-type-public-transport/), they are useful in almost every city. The monorail is a great alternative to the metro, and the cable car, ferries and blimps offer new ways of doing things. Just don’t expect them to handle main commuter lines.
 
 I’m not sure there’s any downside, although if public transport really isn’t your thing, there might be other expansions to prioritise. Either way, at this stage of the game’s life, I’d suggest looking around for a sale.
 

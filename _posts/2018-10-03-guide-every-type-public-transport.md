@@ -17,7 +17,7 @@ Good public transit is vital for the health of most cities. Use the right mix an
 
 Here I’ll quickly look at each type of public transport, its general strengths and weaknesses and how it fits into the bigger picture.
 
-I’ve tried to keep this article short, but I’m planning a more detailed and in-depth version. I’ll link to it from here. I've only covered internal lines so I've left out airports and harbours. [My tourism guide](2018-09-01-how-to-bring-more-tourists-to-your-city-in-cities-skylines.md) talks about those though.
+I’ve tried to keep this article short, but I’m planning a more detailed and in-depth version. I’ll link to it from here. I've only covered internal lines so I've left out airports and harbours. [My tourism guide](/how-to-bring-more-tourists-to-your-city-in-cities-skylines/) talks about those though.
 
 *Compatibility: I’m talking about the vanilla unmodded game with all the expansions installed, so the stuff in this guide applies across PC, Mac, Linux, Xbox, PS4 and Switch versions.*
 
@@ -55,7 +55,7 @@ It’s easy to turn a profit with buses since they’re cheap to run and your fi
 
 ![Public transport: Tram outside the amusement park](/images/amusement-park-trams.jpg)
 
-Arriving in the [Snowfall DLC](2018-09-19-snowfall-2018-review-worth-it.md), trams are among my favourite things in the game. They’re also really good. They’re similar to buses and the same principles apply, but they’ve got a few advantages.
+Arriving in the [Snowfall DLC](/snowfall-2018-review-worth-it/), trams are among my favourite things in the game. They’re also really good. They’re similar to buses and the same principles apply, but they’ve got a few advantages.
 
 Each tram can carry 90 people instead of 30 and as well as running along upgraded roads, you can lay tram-only tracks. That opens up options to create your own tram stations and shortcuts that make trams a much faster option than driving. They also look and sounds great, so there’s that.
 
@@ -73,7 +73,7 @@ People seem to be willing to walk further on paths than pavements, and will even
 
 As well as creating paths between roads, you can create whole networks of bridges and underpasses that cut right across neighbourhoods. Done right, you don’t even need a bus or tram line around your suburbs: people will just walk to the nearest medium distance station.
 
-I’ve written about [how to add crosswalks](2018-09-02-easily-add-crosswalks-without-junctions.md) and how to use [footpaths to reduce traffic](2018-09-02-reduce-manage-traffic-cities-skylines.md).
+I’ve written about [how to add crosswalks](/easily-add-crosswalks-without-junctions/) and how to use [footpaths to reduce traffic](/reduce-manage-traffic-cities-skylines/).
 
 ## Medium distance public transit
 
@@ -109,7 +109,7 @@ Adding bike lanes to your roads is good, but where cycling really shines is when
 
 Bike highways also keep cyclists off the roads, improving speeds for everyone by avoiding them crossing junctions. They’re incredibly effective but the game doesn’t really push you in their direction.
 
-I've written a [guide to biking superhighways](2018-10-20-biking-superhighways-guide-cycling.md).
+I've written a [guide to biking superhighways](/biking-superhighways-guide-cycling/).
 
 ## Long distance
 

@@ -6,7 +6,7 @@ author: "SEPECAT"
 categories: "Guides"
 tags:
 excerpt: "How do we make a city feel like a real place? How can we make it feel alive - like it exists independently of us?" 
-cover-img:
+cover-img: "/images/168e4-self-sufficient-trees.jpg"
 ---
 
 ![Mixed use housing](/images/mixed-use-housing.jpg)
@@ -25,7 +25,7 @@ But without really getting into editing the colours and assets in the game, ‘a
 
 ![Forestry industrial area](/images/industrial-area-forestry.jpg)
 
-Before you even load into a map, it’s worth having an idea what the city is going to be about. What is its focus? Type of business? Will it be an exporter or importer? A tourist destination ([guide here](2018-09-01-how-to-bring-more-tourists-to-your-city-in-cities-skylines.md)) or an industrial powerhouse ([guide here](2018-09-09-supply-chain-specialised-industry.md))? Once you’ve got an idea, build around that.
+Before you even load into a map, it’s worth having an idea what the city is going to be about. What is its focus? Type of business? Will it be an exporter or importer? A tourist destination ([guide here](/how-to-bring-more-tourists-to-your-city-in-cities-skylines/)) or an industrial powerhouse ([guide here](/supply-chain-specialised-industry/))? Once you’ve got an idea, build around that.
 
 Not all the questions need to be answered, obviously, but having a general idea will let you build each district with that character in mind. Ultimately, the city will feel much better realised and alive if it has a purpose.
 
@@ -53,13 +53,13 @@ A 2x2, a 3x3, a 4x2… the occasional 4x4. You get the idea. The point is to avo
 
 This is pretty obvious! A simple way of making an area look less homogeneous is to break up buildings with other things. Parks, playgrounds, tennis courts, gardens, carousels - there are tons of options. They all increase happiness and land value, and visually break up an area to make it look more natural.
 
-![Park footpaths](https://www.lovecitiesskylines.com/wp-content/uploads/2018/11/parks-footpaths.jpg)
+![Park footpaths](/images/parks-footpaths.jpg)
 
 They can also be functional: some of the paths have paths inside them that can be connected to footpaths outside. Hook them up and residents can use them on their walking route! That brings more pedestrians within reach of public transport, meaning fewer cars.
 
 ## Trees and rocks
 
-Before [Parklife](2018-10-21-parklife-review.md), I never really used trees to fill out an area. But I saw how quickly it turned a fairly ugly patch of green into something that looked a bit more real. I was shocked at how easily rocks do the same thing.
+Before [Parklife](/parklife-review/), I never really used trees to fill out an area. But I saw how quickly it turned a fairly ugly patch of green into something that looked a bit more real. I was shocked at how easily rocks do the same thing.
 
 Liberally add them in gaps between buildings and roads to add some much needed visual variety. Switch between the different types and just stick them down either randomly or deliberately depending on the finish you're after.
 
@@ -123,7 +123,7 @@ Combine that with lowering the elevation steps and you’ll get nice, natural lo
 
 ## Choose the right public transport types
 
-I’ve done a rundown of [transit options here](2018-10-03-guide-every-type-public-transport.md). There, I said the metro is probably the game’s best public transport. That said, it’s not always the right type for a natural-feeling city.
+I’ve done a rundown of [transit options here](/guide-every-type-public-transport/). There, I said the metro is probably the game’s best public transport. That said, it’s not always the right type for a natural-feeling city.
 
 Deciding your city’s story goes hand in hand with choosing the type of transport options it’ll have. It’s weird to have a metro system for a connected series of small industrial towns (same goes for the monorail!). It’s equally weird to use it on a map of islands.
 

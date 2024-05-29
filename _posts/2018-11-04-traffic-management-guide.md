@@ -6,7 +6,7 @@ author: "SEPECAT"
 categories: "Guides"
 tags:
 excerpt: "In Cities: Skylines, every city is unique. But there are general principles that always apply for good traffic flow no matter what." 
-cover-img:
+cover-img: "/images/c0c74-20181102180329_1.jpg"
 ---
 
 ![Traffic overlay](/images/traffic-overlay-good-traffic.jpg)
@@ -25,7 +25,7 @@ It’s worth just remembering that the game simulates individual people and good
 
 Residents travel from home to work, or home to leisure, and then back. They don’t travel within residential areas - to visit friends, for example. So you don’t need to account for those kinds of journeys. Tourists arrive by road, rail, air or sea, make their visit, then leave the same way.
 
-Goods and cargo travel to commercial areas. Depending on your setup, they’ll come from outside the city, your industrial areas, or a mix of both. I’ve broken that down a bit more on my [supply chain article](2018-09-09-supply-chain-specialised-industry.md).
+Goods and cargo travel to commercial areas. Depending on your setup, they’ll come from outside the city, your industrial areas, or a mix of both. I’ve broken that down a bit more on my [supply chain article](/supply-chain-specialised-industry/).
 
 In terms of broader city planning, we don’t want residential areas in between industrial and commercial districts - or at least, we don’t want the residential area to be the route between the two. That’s achievable by adding faster bypasses and using policies like Heavy Traffic Ban.
 

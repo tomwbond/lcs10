@@ -6,7 +6,7 @@ author: "SEPECAT"
 categories: "DLC Reviews"
 tags:
 excerpt: "Snowfall was the second expansion for Cities: Skylines. It released in early 2016 and brought winter, new maps, new buildings and trams to the game." 
-cover-img: "/images/night-snowfall-dlc.jpg"
+cover-img: "/images/3b043-night-snowfall-dlc.jpg"
 ---
 
 ![Residential area at night](/images/residential-snowfall-night.jpg)

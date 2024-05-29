@@ -65,7 +65,7 @@ Trains, particularly, are really hard to make profitable. Actually, I’ve never
 
 Buses are the obvious answer here. They use the existing road network, so their main additional cost is the depot. The most routes you add, the more the depot cost is lowered per bus.
 
-I’ve done a rundown of [all the transit type here](2018-10-03-guide-every-type-public-transport.md).
+I’ve done a rundown of [all the transit type here](/guide-every-type-public-transport/).
 
 ## Mothball buildings you’re not using
 
@@ -77,4 +77,4 @@ In most cases, you can leave budget sliders at 100%. They give diminishing retur
 
 But they’re really handy in pinch, and especially early on. For example, putting up the electricity budget will increase your power output without needing to build new generators. That gives you enough time to squeeze past the next population milestone without suffering through blackouts.
 
-*Thanks for reading! I hope you found these ideas handy. If there’s anything really good I missed out,* [*let me know*](/about.md)*. I’d be glad to add it.*
+*Thanks for reading! I hope you found these ideas handy. If there’s anything really good I missed out,* [*let me know*](/about/)*. I’d be glad to add it.*

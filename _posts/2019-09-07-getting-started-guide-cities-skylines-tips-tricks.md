@@ -27,7 +27,7 @@ Don’t worry much about money. In the very early stages, balancing your budget 
 
 ## 2. To avoid the death wave, aim for steady, even residential growth
 
-Make sure you don’t grow residential areas too fast, lest you trigger a death wave. You should aim for steady, even growth every time you build a new development. Add a huge influx of people at once, and they’ll begin to die at once. I’ve written a post about that [here](2018-09-03-death-wave-how-to-avoid.md).
+Make sure you don’t grow residential areas too fast, lest you trigger a death wave. You should aim for steady, even growth every time you build a new development. Add a huge influx of people at once, and they’ll begin to die at once. I’ve written a post about that [here](/death-wave-how-to-avoid/).
 ## 3. Cims go to work and play, but don’t visit friends
 
 Your cims travel from home to work, or from home to leisure. They don’t travel within residential areas, say to visit friends. So you don’t need to plan public transport routes to account for that. Focus instead on how they’ll get to work - ideally while leaving the car at home.
@@ -38,7 +38,7 @@ Your commercial zones need goods to sell. They get them from your industrial are
 
 ## 5. People and cargo choose the fastest route to their destination, so put them on rails
 
-Like people, your cargo will also take the quickest route to its destination. By adding cargo stations in your industrial and commercial areas, you can keep cargo on rails for most of its journey. If it’s faster, imported goods will also arrive by rail. Just make sure you build great road networks around the stations - those things get busy! See more about that [here](2018-09-02-reduce-manage-traffic-cities-skylines.md).
+Like people, your cargo will also take the quickest route to its destination. By adding cargo stations in your industrial and commercial areas, you can keep cargo on rails for most of its journey. If it’s faster, imported goods will also arrive by rail. Just make sure you build great road networks around the stations - those things get busy! See more about that [here](/reduce-manage-traffic-cities-skylines/).
 
 ## 6. Design your road network in a hierarchy. Small roads feed bigger ones
 
@@ -73,7 +73,7 @@ Once you fall for the game, keep a notepad and pen with you all the time. I’m 
 
 ## 13. Before you add more road capacity, try reducing the traffic on the roads in the first place
 
-Building new roads isn’t the only way of dealing with heavy congestion. Your first port of call should be to reduce demand on your roads - find out how [here](2018-09-02-reduce-manage-traffic-cities-skylines.md). You’d be surprised how far that’ll take you.
+Building new roads isn’t the only way of dealing with heavy congestion. Your first port of call should be to reduce demand on your roads - find out how [here](/reduce-manage-traffic-cities-skylines/). You’d be surprised how far that’ll take you.
 
 ## 14. Public transport is a hierarchy. Help people move up and down it for efficient journeys
 
@@ -105,7 +105,7 @@ You don’t need to build services as soon as they unlock: far from it. To save 
 
 ## 21. Before you do something with water, save the game. You’re probably about to flood your city
 
-Save the game before you do anything with water. When you’re building dams, canals, terraforming new rivers, building a dock, trying to make a lake or a [waterfall](2018-09-03-make-waterfall-lake-no-mods.md)… you will almost definitely flood the city by mistake. In most cases it doesn’t matter - the water evaporates quickly enough, but it’s nice to have the option to start over. Or build the pumping station from Natural Disasters.
+Save the game before you do anything with water. When you’re building dams, canals, terraforming new rivers, building a dock, trying to make a lake or a [waterfall](/make-waterfall-lake-no-mods/)… you will almost definitely flood the city by mistake. In most cases it doesn’t matter - the water evaporates quickly enough, but it’s nice to have the option to start over. Or build the pumping station from Natural Disasters.
 
 ![Controlling individual transit lines](/images/individual-line-control.jpg)
 
@@ -161,7 +161,7 @@ Offices are a viable alternative to industry. If you like, you can have no indus
 
 ## 34. Footpaths and bike paths aren’t just for looks, they’re major game features
 
-The game doesn’t do much to highlight footpaths and bike paths, putting them in the decorations tab - but they are incredibly useful for reducing traffic and building an efficient city. Lay effective routes and shortcuts for them and they’ll happily leave their car behind. I’ve covered them a bit [here](2018-09-02-easily-add-crosswalks-without-junctions.md) and [here](2018-09-02-reduce-manage-traffic-cities-skylines.md).
+The game doesn’t do much to highlight footpaths and bike paths, putting them in the decorations tab - but they are incredibly useful for reducing traffic and building an efficient city. Lay effective routes and shortcuts for them and they’ll happily leave their car behind. I’ve covered them a bit [here](/easily-add-crosswalks-without-junctions/) and [here](/reduce-manage-traffic-cities-skylines/).
 
 ## 35. Plant trees and small forests to reduce noise pollution from nearby buildings for residents
 
@@ -260,7 +260,7 @@ Trains are expensive and should be mostly be used to connect far apart bits of y
 
 ## 57. The vast majority of your income comes from residential taxes, so make sure houses upgrade
 
-Residential taxes are your primary source of income. It often makes up two-thirds of your tax take, so make sure you do what’s needed to upgrade houses to the highest levels. But there’s plenty you can do to boost income by creating a full supply chain or [increasing tourism](2018-09-01-how-to-bring-more-tourists-to-your-city-in-cities-skylines.md).
+Residential taxes are your primary source of income. It often makes up two-thirds of your tax take, so make sure you do what’s needed to upgrade houses to the highest levels. But there’s plenty you can do to boost income by creating a full supply chain or [increasing tourism](/how-to-bring-more-tourists-to-your-city-in-cities-skylines/).
 ## 58. Don’t build houses on the spot where your incinerator just was, or people get sick
 
 If you put a residential area on a spot that was recently occupied by an incinerator or something, they’ll get sick. Pollution disappears over time, and you can keep an eye on it dissipating in the pollution overlay.
@@ -273,7 +273,7 @@ City policies can be incredibly useful, so don’t forget to explore them all an
 
 ## 60. Unique buildings are great for aesthetics and flavour but mostly identical in functionality
 
-Most of the unique buildings are much of a muchness. They add new aesthetics and feel like the ‘right’ building for a certain area, but they almost all work the same way: they bring in new [tourists](2018-09-01-how-to-bring-more-tourists-to-your-city-in-cities-skylines.md), increase city attractiveness, cost a bunch to maintain, and give your residents something new to do. Exceptions include the Match Day and Concerts DLCs.
+Most of the unique buildings are much of a muchness. They add new aesthetics and feel like the ‘right’ building for a certain area, but they almost all work the same way: they bring in new [tourists](/how-to-bring-more-tourists-to-your-city-in-cities-skylines/), increase city attractiveness, cost a bunch to maintain, and give your residents something new to do. Exceptions include the Match Day and Concerts DLCs.
 
 ## 61. Avoid terrible feedback loops by keeping power supplies near your water pumps
 

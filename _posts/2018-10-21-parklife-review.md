@@ -6,7 +6,7 @@ author: "SEPECAT"
 categories: "DLC Reviews"
 tags:
 excerpt: "Parklife freshened up the formula, added systems we hadn’t seen before and gave us expansive parks that can define, or redefine, whole parts of the city." 
-cover-img:
+cover-img: "/images/944d3-archipelago-amusement-park-night.jpg"
 ---
 
 ![Nature reserve tents](/images/nature-reserve-tents.jpg)
@@ -43,7 +43,7 @@ City Parks are really handy for awkward spaces in the middle of your cities. You
 
 Although income shouldn’t be overstated, either. They do make money, but they won’t be big income generators. But that doesn’t really matter - money is easy to come by in Cities.
 
-When I wrote about [Snowfall](2018-09-19-snowfall-2018-review-worth-it.md), I talked about how it was a shame that seasons weren’t integrated into non-winter maps. That goes the other way, too. A fifth park type - a ski or winter sports resort - would have been incredible. It would have given everyone a reason to make a new winter city, and probably sold a bunch of copies of the older DLC, offsetting the costs of making it (maybe).
+When I wrote about [Snowfall](/snowfall-2018-review-worth-it/), I talked about how it was a shame that seasons weren’t integrated into non-winter maps. That goes the other way, too. A fifth park type - a ski or winter sports resort - would have been incredible. It would have given everyone a reason to make a new winter city, and probably sold a bunch of copies of the older DLC, offsetting the costs of making it (maybe).
 
 ## What else is new?
 
@@ -75,7 +75,7 @@ Freedom cuts both ways, of course. It’s possible to totally screw up your new 
 
 It’s difficult to find fault with the pack. Everything feels well executed. I’d have liked some love for the winter maps but that’s a wider criticism rather than a problem with Parklife specifically.
 
-As I write this, the seventh expansion - [Industries](2018-10-13-industries-expansion-preview.md) - is about to arrive. It’s a testament to the success of the park drawing and upgrading that the new industrial areas look like they’re based on the same system.
+As I write this, the seventh expansion - [Industries](/industries-expansion-preview/) - is about to arrive. It’s a testament to the success of the park drawing and upgrading that the new industrial areas look like they’re based on the same system.
 
 I think what makes Parklife so special is that the parks I design, whether they’re beautiful nature reserves or wild amusement parks, often end up defining whole regions. In lots of cases, they’re among the things I’m most proud of in the city. They give incentives for beautifying an area and they contribute to the city’s attractiveness and pull in tourists. 
 

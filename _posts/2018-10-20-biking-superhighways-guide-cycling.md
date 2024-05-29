@@ -6,7 +6,7 @@ author: "SEPECAT"
 categories: "Guides"
 tags:
 excerpt: "Biking arrived in After Dark. Suddenly, using the bike-only path, we can build huge networks of fast, direct cycle highways." 
-cover-img: "/images/20181020140053_1.jpg"
+cover-img: "/images/62c5c-20181020140053_1.jpg"
 ---
 
 ![Bike and cycle highway](/images/bike-cycle-highway.jpg)
@@ -23,7 +23,7 @@ In real life, I don’t particularly enjoy riding on the road, but I love mounta
 
 ## Bike behaviour and mechanics
 
-In my quick [overview of all public transport](2018-10-03-guide-every-type-public-transport.md), I put biking in the medium distance travel category. That puts it ahead of buses and trams and alongside the metro and monorail. At first glance, that seems a bit odd, but I think it stands up.
+In my quick [overview of all public transport](/guide-every-type-public-transport/), I put biking in the medium distance travel category. That puts it ahead of buses and trams and alongside the metro and monorail. At first glance, that seems a bit odd, but I think it stands up.
 Once cims get going, bikes go surprisingly fast. Bike paths are also unconstrained by passenger throughput limits, meaning you’ll never have hundreds of people waiting at stops, and not enough vehicles to collect them.
 
 Even without any optimisation, cims will happily ride on the sidewalk, bikes lanes, footpaths or bike paths.
@@ -37,7 +37,7 @@ Bike riding doesn’t seem to have any direct benefits for the population like i
 The most efficient bike highways are direct and have few interruptions, which is where dedicated bike paths come in. Although a similar thing can be achieved with bike lanes, using separate bike paths with bridges and underpasses means bikers who are passing through don’t need to ride across road intersections.
 Keeping it separate makes cycle journeys faster, but it also avoids slowing down all of your road traffic. In busy areas of the city that’s potentially very important.
 
-In practice, of course, it’ll be a mix of bike lanes, bike paths and basic pavements as you make compromises. Adding a crosswalk on a quieter side street means you can let cyclists cross away from main junctions. I’ve explained how to do that [here](2018-09-02-easily-add-crosswalks-without-junctions.md).
+In practice, of course, it’ll be a mix of bike lanes, bike paths and basic pavements as you make compromises. Adding a crosswalk on a quieter side street means you can let cyclists cross away from main junctions. I’ve explained how to do that [here](/easily-add-crosswalks-without-junctions/).
 
 As with public transport, bike highways should connect the places that people travel between: home and work, and home and leisure. By putting the highway close to big residential areas and close to the commercial centre, for example, lots of people will ride because it’s now the fastest route. Also, be sure to integrate routes fully with all the city’s major transit hubs.
 

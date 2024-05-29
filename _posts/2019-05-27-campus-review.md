@@ -19,7 +19,7 @@ I’ve had a chance to play with the new campus types and fully level one of the
 
 Let’s cover this first. The 1.12 update is available to all players, whether they have the DLC or not. It adds the Public Library, a really interesting addition I’ll mention later, as well as the Academic Library. We now have the ability to choose what buses run on individual lines, which allows you to some lines to run the new Yellow School bus (but also choose buses you’ve downloaded from Steam Workshop. Hopefully the devs will roll out this previously mod-only feature to the other transport types).
 
-Industry 4.0 is a significant new city policy that helps to solve a key late-game problem when your citizens are too educated to gladly take industrial jobs. It increases the education requirements for all jobs in affected areas, meaning well-educated residents will more readily take those jobs, helping solve a problem [I’ve written about before](2018-09-10-not-enough-workers-high-unemployment.md). It does also cut job numbers - and reminds me of the functionality of the IT Cluster specialisation.
+Industry 4.0 is a significant new city policy that helps to solve a key late-game problem when your citizens are too educated to gladly take industrial jobs. It increases the education requirements for all jobs in affected areas, meaning well-educated residents will more readily take those jobs, helping solve a problem [I’ve written about before](/not-enough-workers-high-unemployment/). It does also cut job numbers - and reminds me of the functionality of the IT Cluster specialisation.
 
 Elsewhere, citizens have now got job titles!
 
@@ -91,4 +91,4 @@ I think Campus is a very good expansion. It’s not groundbreaking: it reuses an
 
 On top of that, the execution is great. There are lots of buildings with a consistently high level of quality. The architectural variety is excellent and the designers have successfully captured what modern universities actually look like. 
 
-**Bottom line: I think Campus is a very good DLC and I’m enjoying it a lot. It completely revolutionises the previously passive higher education system in the game. But, if you’re just picking the game up now, I’d prioritise getting some of the other expansions first. [See my recommendations here](2018-11-01-best-dlc.md).**
+**Bottom line: I think Campus is a very good DLC and I’m enjoying it a lot. It completely revolutionises the previously passive higher education system in the game. But, if you’re just picking the game up now, I’d prioritise getting some of the other expansions first. [See my recommendations here](/best-dlc/).**
