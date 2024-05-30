@@ -6,7 +6,7 @@ author: "SEPECAT"
 categories: "DLC Reviews"
 tags:
 excerpt: "I always felt there was scope for more depth and control, so it looks like I got my wish! I can’t wait to see how Industries will add to the game." 
-image: "/images/44ece-night-industry-snowfall.jpg"
+cover-img: "/images/night-industry-snowfall.jpg"
 ---
 
 ![Farming specialistion](/images/farming-industry-specialisation.jpg)
