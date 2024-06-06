@@ -1,7 +1,7 @@
 ---
 title: "A Guide to Every Type of Public Transport"
 date: "2018-10-13"
-permalink: "/guide-every-type-public-transport/"
+permalink: "/quick-guide-every-type-public-transport/"
 author: "SEPECAT"
 categories: "Guides"
 tags:
