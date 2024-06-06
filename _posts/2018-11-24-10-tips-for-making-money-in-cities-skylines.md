@@ -65,7 +65,7 @@ Trains, particularly, are really hard to make profitable. Actually, I’ve never
 
 Buses are the obvious answer here. They use the existing road network, so their main additional cost is the depot. The most routes you add, the more the depot cost is lowered per bus.
 
-I’ve done a rundown of [all the transit type here](/guide-every-type-public-transport/).
+I’ve done a rundown of [all the transit type here](/quick-guide-every-type-public-transport/).
 
 ## Mothball buildings you’re not using
 

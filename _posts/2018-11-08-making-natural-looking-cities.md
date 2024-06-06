@@ -123,7 +123,7 @@ Combine that with lowering the elevation steps and you’ll get nice, natural lo
 
 ## Choose the right public transport types
 
-I’ve done a rundown of [transit options here](/guide-every-type-public-transport/). There, I said the metro is probably the game’s best public transport. That said, it’s not always the right type for a natural-feeling city.
+I’ve done a rundown of [transit options here](/quick-guide-every-type-public-transport/). There, I said the metro is probably the game’s best public transport. That said, it’s not always the right type for a natural-feeling city.
 
 Deciding your city’s story goes hand in hand with choosing the type of transport options it’ll have. It’s weird to have a metro system for a connected series of small industrial towns (same goes for the monorail!). It’s equally weird to use it on a map of islands.
 

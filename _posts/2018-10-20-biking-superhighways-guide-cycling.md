@@ -23,7 +23,7 @@ In real life, I don’t particularly enjoy riding on the road, but I love mounta
 
 ## Bike behaviour and mechanics
 
-In my quick [overview of all public transport](/guide-every-type-public-transport/), I put biking in the medium distance travel category. That puts it ahead of buses and trams and alongside the metro and monorail. At first glance, that seems a bit odd, but I think it stands up.
+In my quick [overview of all public transport](/quick-guide-every-type-public-transport/), I put biking in the medium distance travel category. That puts it ahead of buses and trams and alongside the metro and monorail. At first glance, that seems a bit odd, but I think it stands up.
 Once cims get going, bikes go surprisingly fast. Bike paths are also unconstrained by passenger throughput limits, meaning you’ll never have hundreds of people waiting at stops, and not enough vehicles to collect them.
 
 Even without any optimisation, cims will happily ride on the sidewalk, bikes lanes, footpaths or bike paths.

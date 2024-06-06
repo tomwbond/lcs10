@@ -93,7 +93,7 @@ Organic zones make very little noise - meaning you can put them right inside you
 
 *The transit hierarchy: residents take buses from the suburbs to the high street where they swap to trams that go to the train station for services to other parts of the city.*
 
-This is really the most obvious way - and it warrants it own post [which I've done here](/guide-every-type-public-transport/) so I won’t go into tons of detail. The main thing - as IRL - is public transit needs to be a genuine alternative for people to switch.
+This is really the most obvious way - and it warrants it own post [which I've done here](/quick-guide-every-type-public-transport/) so I won’t go into tons of detail. The main thing - as IRL - is public transit needs to be a genuine alternative for people to switch.
 
 The game’s pathfinding will decide the fastest route at the start of the journey. If there’s a bunch of a low-speed roads and a couple of annoying ‘Old Town’ areas they’ll have to drive around to get to work; or a gleaming new monorail that goes direct, with a short, easy walk at each end, well. They'll do the sensible thing!
 
