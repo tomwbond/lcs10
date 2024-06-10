@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with Cities: Skylines - 72 Tips and Tricks"
 date: "2019-09-07"
-permalink: "/getting-started-guide-cities-skylines-tips-tricks/"
+permalink: "/oops/"
 author: "SEPECAT"
 categories: "Tips"
 tags:
