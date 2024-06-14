@@ -6,7 +6,7 @@ author: "SEPECAT"
 categories: "Tips"
 tags:
 excerpt: "Now while we can’t remove them, there is a way we can add them without having to build a junction!"
-cover-img: "/images/crosswalk-suburb.jpg"
+cover-img: "/images/crosswalk-suburb.webp"
 ---
 
 In Cities: Skylines, as in life, crosswalks (or pedestrian crossings where I’m from!) let pedestrians, cyclists and dogs get from one side of the street to the other safely. They get added automatically at junctions and intersections.
@@ -16,7 +16,7 @@ I’d love to see more control added in the future. It could sit amongst the exi
 
 Now while we can’t remove them, there is a way we can add them without having to build a junction! 
 
-![Upgrade road for crosswalks](/images/upgrade-for-crosswalk.jpg)
+![Upgrade road for crosswalks](/images/upgrade-for-crosswalk.webp)
 
 All you need to do is upgrade the road type in one place. Where the roads join, crosswalks appear. But there's also a neater and more precise way to add them. Read on!
 
@@ -27,26 +27,26 @@ The second, bigger reason, is to make shortcuts across an estate. We can massive
 
 ## Let’s use this really simple example:
 
-![Low density suburb](/images/low-densityhousing.jpg)
+![Low density suburb](/images/low-densityhousing.webp)
 
 Here’s the Elizabeth household. Five children live here, and they probably go to the local elementary school.
 
-![Elementary school](/images/elementary-school.jpg)
+![Elementary school](/images/elementary-school.webp)
 
 At the moment, the kids need to walk to the top of the street, across, and down again. Now obviously, in this case, that’s no problem. But let’s say that walk was just slightly further than they were willing to walk, and were instead driving every day. If we could shorten the route, we’d get lots more residents out of their cars, freeing up the roads.
 
 So let’s add footpaths from the school to the Elizabeth household. Obviously, this fixes nothing unless they can cross the road. Our choices are a footbridge, an underpass… or a new crossing. Let’s delete the roads either side and draw a tiny bit of tree-lined road where we want the crossing.
 
-![Adding a crosswalk with no junction](/images/creating-crosswalk.jpg)
+![Adding a crosswalk with no junction](/images/creating-crosswalk.webp)
 
 Next, reconnect the roads, using a different type of road - like the plain version or the one with bike lanes.
 
-![Adding a crosswalk](/images/reconnect-the-roads.jpg)
+![Adding a crosswalk](/images/reconnect-the-roads.webp)
 
 And there you go!
 
 *Ideally, you'd do this with the game paused so that everyone else doesn't move out as has happened here...*
 
-![Crosswalk without junction](/images/crosswalk-suburb2.jpg)
+![Crosswalk without junction](/images/crosswalk-suburb2.webp)
 
 I hope you found this helpful. Before I found this out, I was building vast and complex bridge and underpass networks to achieve the same thing. More fun, probably, but not space-efficient. Not very efficient with my time, either...

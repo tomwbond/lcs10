@@ -6,10 +6,10 @@ author: "SEPECAT"
 categories: "Guides"
 tags:
 excerpt: "Getting your cargo on rails is one of the best ways of fixing your traffic. Combine good rail cargo with efficient public transport for serene roads." 
-cover-img: "/images/public-transport-trains.jpg"
+cover-img: "/images/public-transport-trains.webp"
 ---
 
-![Cargo hub at night](/images/cargo-hub-night.jpg)
+![Cargo hub at night](/images/cargo-hub-night.webp)
 
 Getting your cargo on rails is one of the best ways of fixing your traffic problems. Combine a good rail cargo system with an efficient public transport network and your roads will flow smoothly and serenely.
 
@@ -21,7 +21,7 @@ By putting stations, harbours and hubs near where cargo is coming from and near 
 
 ## What goes where
 
-![Supply chain flowchart](/images/supply-chain-flowchart.jpg)
+![Supply chain flowchart](/images/supply-chain-flowchart.webp)
 
 *This graphic is from the* [*Supply chain*](/supply-chain-specialised-industry/) *article but works here too.*
 
@@ -37,7 +37,7 @@ With this information about the city's supply chain, you'll have a handle on wha
 
 ## Available tools
 
-![Cargo hub taking delivery](/images/cargo-hub-tractors.jpg)
+![Cargo hub taking delivery](/images/cargo-hub-tractors.webp)
 
 ### Cargo train terminal
 
@@ -81,7 +81,7 @@ The ideal passing loop is just long enough one (actually, any number you like) t
 
 ## Try to keep lines separate
 
-![This is a total mess](/images/rail-line-mess.jpg)
+![This is a total mess](/images/rail-line-mess.webp)
 
 *This is a complete mess. This is one of those times I just kept adding bits to the network in a blind attempt to solve train traffic jams. I'd have been better off starting from scratch!*
 

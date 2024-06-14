@@ -6,10 +6,10 @@ author: "SEPECAT"
 categories: "Tips"
 tags:
 excerpt: "In the early game, it can be difficult to balance the books, especially by expanding too quickly. Here’s a few tips." 
-cover-img: "/images/upgraded-housing.jpg"
+cover-img: "/images/upgraded-housing.webp"
 ---
 
-![Mixed use residential area](/images/mixed-use-residential.jpg)
+![Mixed use residential area](/images/mixed-use-residential.webp)
 
 In Cities: Skylines, money isn’t too hard to make. Once the city reaches a few tens of thousands - assuming it’s relatively well-managed - you’ll probably be sitting on a few million in the bank and have enough to build pretty much whatever you need.
 

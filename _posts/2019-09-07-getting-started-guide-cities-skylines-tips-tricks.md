@@ -51,7 +51,7 @@ Cars and trucks don’t automatically spread out into available lanes, which mea
 ## 8. Build fewer, bigger intersections and aim for 3-way, not 4-way junctions
 
 Aim to spread out your intersections, and never put them closer than 10 squares apart. That’s where the circular ‘hook points’ show when joining roads together. Instead of 4-way junctions, try alternating 3-ways instead. For big interchanges, think fewer, bigger, and more efficient.
-![Complex roundabouts](/images/complex-roundabouts.jpg)
+![Complex roundabouts](/images/complex-roundabouts.webp)
 
 ## 9. Build big roundabouts so you have space to add through roads later
 
@@ -65,7 +65,7 @@ One-way streets are excellent for areas with lots of cargo traffic. You can crea
 
 As your city grows, understanding where your traffic is coming from and how it moves through the city is vital. Design specific routes for types: people, cargo, tourists etc. Don’t be afraid to make car travel really awkward to make people shift onto public transport. Use the Routes overlay to analyse problem areas.
 
-![My notepad](/images/notepad-masterplanning.jpg)
+![My notepad](/images/notepad-masterplanning.webp)
 
 ## 12. Keep a notepad and pen handy. Instead of working, sketch out your next master plan
 
@@ -107,7 +107,7 @@ You don’t need to build services as soon as they unlock: far from it. To save 
 
 Save the game before you do anything with water. When you’re building dams, canals, terraforming new rivers, building a dock, trying to make a lake or a [waterfall](/make-waterfall-lake-no-mods/)… you will almost definitely flood the city by mistake. In most cases it doesn’t matter - the water evaporates quickly enough, but it’s nice to have the option to start over. Or build the pumping station from Natural Disasters.
 
-![Controlling individual transit lines](/images/individual-line-control.jpg)
+![Controlling individual transit lines](/images/individual-line-control.webp)
 
 ## 22. You can control how many vehicles run on individual transit lines, to respond to changing demand
 
@@ -157,7 +157,7 @@ Specialised industries - farming, forestry, oil and ore - are best placed on top
 
 Offices are a viable alternative to industry. If you like, you can have no industry at all in your city, and instead provide jobs through office space. Offices don’t cause noise and ground pollution so they can go anywhere, and they don’t draw cargo traffic making them a great alternative if you’re after a modern, clean city. They need better-educated workers, and your commercial zones will import everything from outside - so plan accordingly.
 
-![Pedestrian paths](/images/footpath-pedestrians.jpg)
+![Pedestrian paths](/images/footpath-pedestrians.webp)
 
 ## 34. Footpaths and bike paths aren’t just for looks, they’re major game features
 
@@ -175,7 +175,7 @@ Offices don’t cause noise pollution and they don’t mind bear near it, either
 
 If you’re struggling for ideas, you can often turn to real life. Lots of people model new interchanges on [real designs](https://en.wikipedia.org/wiki/Interchange_(road)#System_interchange). The most ambitious players use Google Maps and try to recreate whole cities!
 
-![Connecting footpaths to buildings](/images/footpaths-through-parks.jpg)
+![Connecting footpaths to buildings](/images/footpaths-through-parks.webp)
 
 ## 38. You can connect some parks and buildings directly to local footpaths to make entrances and shortcuts
 
@@ -209,7 +209,7 @@ You can get away with 12% taxes on every type of zoning, even right from the sta
 
 To maximise industrial taxes, build a complete supply chain for your city. Specialised industries harvest raw materials and do the first stage of processing. Generic industry does the second stage of processing. Ship those goods to your commercial zones and you’ll need no imports at all, and earn taxes at each stage. Whatever you don’t make enough of will get imported.
 
-![Separate train tracks](/images/multiple-tracks.jpg)
+![Separate train tracks](/images/multiple-tracks.webp)
 
 ## 46. Try to keep all your train lines separate: inside and outside, people and cargo don’t mix well
 
@@ -234,7 +234,7 @@ You can check when you need to add new service buildings by looking at how many 
 ## 51. Hospitals are usually overkill. Keep pollution of all sorts at bay and clinics will be enough
 
 Hospitals look great and are nice for the aesthetics of an area, but they’re almost always overkill. As long as you keep water, noise and ground pollution away from your residents they’ll hardly ever get sick. A clinic will go a very long way, especially early on.
-![Controlling traffic lights](/images/traffic-light-control.jpg)
+![Controlling traffic lights](/images/traffic-light-control.webp)
 
 ## 52. Most areas flow better with traffic lights off. Manually control them and add stop signs for the best flow
 
@@ -248,7 +248,7 @@ At its very simplest, when you are doing city master planning, think about how t
 
 You can click Follow on practically anything in the game. Following trains and monorails as they glide around a city you’re proud of is incredibly satisfying.
 
-![Making smooth gradients](/images/smooth-gradients.jpg)
+![Making smooth gradients](/images/smooth-gradients.webp)
 
 ## 55. For the smoothest gradients, make your bridge and tunnel slopes 12 squares long.
 
@@ -269,7 +269,7 @@ If you put a residential area on a spot that was recently occupied by an inciner
 
 City policies can be incredibly useful, so don’t forget to explore them all and get a feel for what they do. When you draw districts, you can apply any of those policies to individual areas instead of the entire city.
 
-![Central square in the snow.](/images/snow-central-square.jpg)
+![Central square in the snow.](/images/snow-central-square.webp)
 
 ## 60. Unique buildings are great for aesthetics and flavour but mostly identical in functionality
 
@@ -318,7 +318,7 @@ I like to build fairly organically. I like that my finished city is kind of the 
 ## 71. Mods and assets on the Steam Workshop can alter practically every part of the game
 
 You can endlessly customise the game with the Steam Workshop. Mods change the game’s functionality in some way, while assets are basically things to place in game. So without breaking anything you can safely add new types of plane, train, road etc. Say you want a Boeing 737 in Norwegian livery or a road with monorail and bike lanes? The Workshop almost certainly has you covered.
-![Looking over the city](/images/city-view-2.jpg)
+![Looking over the city](/images/city-view-2.webp)
 
 ## 72. If you're a normal person, your first city will be crap. Don’t worry about it. Play, experiment, and find out what aspects you most enjoy for your next one
 

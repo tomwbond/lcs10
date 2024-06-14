@@ -6,10 +6,10 @@ author: "SEPECAT"
 categories: "DLC Reviews"
 tags:
 excerpt: "I always felt there was scope for more depth and control, so it looks like I got my wish! I can’t wait to see how Industries will add to the game." 
-cover-img: "/images/night-industry-snowfall.jpg"
+cover-img: "/images/night-industry-snowfall.webp"
 ---
 
-![Farming specialistion](/images/farming-industry-specialisation.jpg)
+![Farming specialistion](/images/farming-industry-specialisation.webp)
 
 It feels like it’s been hardly any time since Parklife - one of Cities: Skylines’ best DLC - was released to much fanfare in the summer, and Colossal Order have just announced that the game’s seventh expansion is just around the corner. Industries will launch alongside a free patch and a new radio station playing synth tracks.
 
@@ -27,7 +27,7 @@ In any case, the new overlays and panels to show us what’s going on under the 
 
 ## Drawable industrial areas
 
-![Oil fields fire](/images/20180908173744_1.jpg)
+![Oil fields fire](/images/20180908173744_1.webp)
 
 *I hope oil fields are as prone to this sort of thing as ever.*
 
@@ -55,7 +55,7 @@ Industries will launch with five new maps. I’m hoping for some complex geograp
 
 ## All in all, I’m excited
 
-![Tourists arriving in a full plane](/images/tourist-plane-airport.jpg)
+![Tourists arriving in a full plane](/images/tourist-plane-airport.webp)
 
 *This DHL plane asset from the Workshop is going to stop looking so out of place now it can land at the cargo airport!*
 

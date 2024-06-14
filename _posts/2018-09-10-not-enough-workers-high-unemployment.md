@@ -6,10 +6,10 @@ author: "SEPECAT"
 categories: "Tips"
 tags:
 excerpt: "Something a lot of us run into is buildings saying they don’t have enough workers when it seems like there’s more than enough to go around. Let's try to fix it."
-cover-img: "/images/not-enough-workers-high-unemployment.jpg"
+cover-img: "/images/not-enough-workers-high-unemployment.webp"
 ---
 
-![Not enough workers with high unemployment](/images/not-enough-workers.jpg)
+![Not enough workers with high unemployment](/images/not-enough-workers.webp)
 
 *'Not enough workers!' 13% unemployment and 800 jobs unfilled. What's going on?*
 
@@ -26,7 +26,7 @@ It's worth saying that unemployment rarely seems ever to fall below about 3%. Be
 
 ## The usual suspects
 
-![](/images/high-unemployment.jpg)
+![](/images/high-unemployment.webp)
 
 The industry specialisations, especially, use a lot of uneducated workers. If you’ve got a well-educated population, that can be a problem. If most of your people studied at university and you’ve just built a big oil field on the edge of town, you’re going to have trouble filling those jobs.
 
@@ -56,7 +56,7 @@ For that reason, it's better to zone residential first and make sure you continu
 
 ## Not enough educated workers
 
-![University and highly educated cims](/images/university-education-employment.jpg)
+![University and highly educated cims](/images/university-education-employment.webp)
 
 This one is a slightly different problem, but it’s worth mentioning because it’s related and comes back to education. 
 

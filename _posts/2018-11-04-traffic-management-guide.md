@@ -6,10 +6,10 @@ author: "SEPECAT"
 categories: "Guides"
 tags:
 excerpt: "In Cities: Skylines, every city is unique. But there are general principles that always apply for good traffic flow no matter what." 
-cover-img: "/images/c0c74-20181102180329_1.jpg"
+cover-img: "/images/c0c74-20181102180329_1.webp"
 ---
 
-![Traffic overlay](/images/traffic-overlay-good-traffic.jpg)
+![Traffic overlay](/images/traffic-overlay-good-traffic.webp)
 
 In Cities: Skylines, every city is unique. The geography, size of your districts, mix of commercial and industrial areas, available outside connections and a hundred other factors will determine the right traffic management solution for each part of the city.
 
@@ -33,7 +33,7 @@ Just for interest, offices also export, but in their case they sell services. It
 
 ## The most important concept: the hierarchy
 
-![The traffic hierarchy](/images/road-hierarchy-small.jpg)
+![The traffic hierarchy](/images/road-hierarchy-small.webp)
 
 In every part of the city, the most important design principle is to create a road hierarchy. Think of a tree with the trunk roads bearing most of the weight, leading to increasingly small branches as vehicles get closer to their destination.
 
@@ -73,17 +73,17 @@ By the way, you can replace key segments of the road network with public transpo
 
 ## Identifying and diagnosing problems
 
-![Traffic overlay busy roads](/images/traffic-overlay-busy-streets.jpg)
+![Traffic overlay busy roads](/images/traffic-overlay-busy-streets.webp)
 
 The Traffic overlay in the UI is the most important tool for finding problems in the network. Red spots in the Traffic panel aren’t necessarily a problem. If you zoom in and see continuous, steady flow, then it’s fine. The red shows usage rather than congestion. If the traffic isn’t too backed up, then you can leave it alone.
 
 Conversely, a high traffic flow percentage doesn’t mean there’s no issues. 85% is just the average, and in a big city, a high number can mask a couple of extremely troublesome areas.
 
-![Imports coming into the city](/images/imports-overlay-commercial-2.jpg)
+![Imports coming into the city](/images/imports-overlay-commercial-2.webp)
 
 The Imports and Exports tab is also a key source of information. By looking at which companies are importing what, and from where, you’ll be able to work out if you need a new highway interchange just to deal with oil imports from outside the city, for example.
 
-![The Routes overlay](/images/routes-overlay-trucks.jpg)
+![The Routes overlay](/images/routes-overlay-trucks.webp)
 
 On a more local level, the Routes overlay is great for diagnosing problems with busy intersections. Having spotted a bad junction, toggle through the filters to get a live display of who is using that road now, where they came from, and where they’re headed. By separating out private cars, or cargo, it’s possible to identify what’s causing the biggest issues.
 
@@ -91,7 +91,7 @@ As an example, I recently had a very backed up set of junctions. After looking t
 
 ## Traffic lights, stop signs and priority roads
 
-![Stop signs, junctions](/images/stop-signs-2.jpg)
+![Stop signs, junctions](/images/stop-signs-2.webp)
 
 By default, the game adds traffic lights to large junctions. Early on, that’s no problem, but as traffic load grows, lights can sometimes become inefficient. That’s especially true when they’re holding up traffic on your main roads in favour of side roads.
 
@@ -103,11 +103,11 @@ Just as a side note, guides produced before the Mass Transit patch won’t usual
 
 ## Effective interchanges and intersections
 
-![Interchange into the city](/images/raised-roundabout-interchange.jpg)
+![Interchange into the city](/images/raised-roundabout-interchange.webp)
 
 I haven’t got many big or complex interchanges in my own cities because I tend to focus on public transport, bikes and demand reduction. I usually just need a few modifications to improve flow. But if you’re building a car-heavy city or just seem to crack a troublesome hotspot, then turning to the internet can help. The [Cities: Skylines Reddit](https://www.reddit.com/r/CitiesSkylines/) has a lot of interesting ideas. For tried and tested real-life layouts, try this brilliant [Wikipedia](https://en.wikipedia.org/wiki/Interchange_(road)) page.
 
-![Interchange](/images/raised-highway-interchange.jpg)
+![Interchange](/images/raised-highway-interchange.webp)
 
 Above you can see a fairly standard interchange with extra entry and exit points, and a collector lane on the right. That avoids traffic from the nearby industrial area from joining the main highway and interrupting vehicles who are passing straight through.
 
@@ -121,17 +121,17 @@ Wider roads are not always - or not even often - the answer. Sometimes it’s th
 
 ## One way systems
 
-![One way traffic system](/images/one-way-system-forestry.jpg)
+![One way traffic system](/images/one-way-system-forestry.webp)
 
 In busy areas, one way roads can be great for improving traffic. By avoiding vehicles - cargo especially - crossing in front of each other, an orderly procession can be organised around a whole area.
 
-![One way traffic system](/images/one-way-system-forestry-2.jpg)
+![One way traffic system](/images/one-way-system-forestry-2.webp)
 
 The idea works in and around buildings as well as separating incoming and outgoing traffic.
 
 ## Using roundabouts
 
-![Roundabout with passthroughs](/images/roundabout-double-passthrough.jpg)
+![Roundabout with passthroughs](/images/roundabout-double-passthrough.webp)
 
 Roundabouts can solve a lot of problems. They’re great for keeping traffic flowing in places where a simple interaction has ground to a halt. A simple circular design works well in lower flow areas.
 

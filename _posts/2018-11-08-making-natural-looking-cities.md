@@ -6,10 +6,10 @@ author: "SEPECAT"
 categories: "Guides"
 tags:
 excerpt: "How do we make a city feel like a real place? How can we make it feel alive - like it exists independently of us?" 
-cover-img: "/images/168e4-self-sufficient-trees.jpg"
+cover-img: "/images/168e4-self-sufficient-trees.webp"
 ---
 
-![Mixed use housing](/images/mixed-use-housing.jpg)
+![Mixed use housing](/images/mixed-use-housing.webp)
 
 How do we make a city feel like a real place? How can we make it feel alive - like it exists independently of us?
 
@@ -23,7 +23,7 @@ But without really getting into editing the colours and assets in the game, ‘a
 
 ## What’s the story of the city?
 
-![Forestry industrial area](/images/industrial-area-forestry.jpg)
+![Forestry industrial area](/images/industrial-area-forestry.webp)
 
 Before you even load into a map, it’s worth having an idea what the city is going to be about. What is its focus? Type of business? Will it be an exporter or importer? A tourist destination ([guide here](/how-to-bring-more-tourists-to-your-city-in-cities-skylines/)) or an industrial powerhouse ([guide here](/supply-chain-specialised-industry/))? Once you’ve got an idea, build around that.
 
@@ -31,7 +31,7 @@ Not all the questions need to be answered, obviously, but having a general idea 
 
 ## Maps with challenging geography
 
-![Transport masterplanning](/images/monorail-tourism.jpg)
+![Transport masterplanning](/images/monorail-tourism.webp)
 
 It’s tempting to pick maps with wide open spaces and very little to get in the way. And in truth that’s a good place to start if you’re still learning the game’s systems. But after that, look for cities with some geographical restrictions.
 
@@ -41,7 +41,7 @@ Having said that, maybe your city is a cluster of small industrial towns in a wi
 
 ## Hand-drawing high-density buildings
 
-![High density zoning](/images/drawing-high-density-zones.jpg)
+![High density zoning](/images/drawing-high-density-zones.webp)
 
 This is a way to reduce the size and proximity of high-density residential blocks. It helps avoid the ‘urban jungle’ effect and can also be used to help merge lower density areas with higher density ones.
 
@@ -53,7 +53,7 @@ A 2x2, a 3x3, a 4x2… the occasional 4x4. You get the idea. The point is to avo
 
 This is pretty obvious! A simple way of making an area look less homogeneous is to break up buildings with other things. Parks, playgrounds, tennis courts, gardens, carousels - there are tons of options. They all increase happiness and land value, and visually break up an area to make it look more natural.
 
-![Park footpaths](/images/parks-footpaths.jpg)
+![Park footpaths](/images/parks-footpaths.webp)
 
 They can also be functional: some of the paths have paths inside them that can be connected to footpaths outside. Hook them up and residents can use them on their walking route! That brings more pedestrians within reach of public transport, meaning fewer cars.
 
@@ -83,7 +83,7 @@ With the free patch that launched alongside Industries, we got the option to tog
 
 ## Alternating grids
 
-![Alternating grids](/images/alternating-grids.jpg)
+![Alternating grids](/images/alternating-grids.webp)
 
 This might be my favourite style, especially for low-density buildings where you can still see the roads from a distance. It’s a grid but with some of the arms taken out. By just removing a few connecting arms you end up with something that looks a lot more natural.
 
@@ -97,7 +97,7 @@ A somewhat chaotic approach is simply to draw as randomly as you can. Perhaps st
 
 ## Community centres
 
-![Traffic management](/images/20181102180329_1.jpg)
+![Traffic management](/images/20181102180329_1.webp)
 
 Instead of vast residential, commercial and industrial areas, making areas mixed-use helps them look and feel natural.
 
@@ -107,7 +107,7 @@ Town centres like this look good, and they have functional benefits, too. By spr
 
 ## Low-density commercial and offices
 
-![Central station museum](/images/central-station-museum.jpg)
+![Central station museum](/images/central-station-museum.webp)
 
 Although all commercial buildings make noise, low-density commercial is quiet enough that it can sit near (although perhaps not literally next to) houses. Adding small sections of commercial buildings at regular intervals can make places look more real.
 
@@ -115,7 +115,7 @@ It especially makes sense that busy parts of town are complemented by shops and 
 
 ## Twelve unit slopes
 
-![Making smooth gradients](/images/smooth-gradients.jpg)
+![Making smooth gradients](/images/smooth-gradients.webp)
 
 When drawing slopes for bridges and tunnels, the maximum distance is 12 grid squares. After that, you’ll notice the game add more flat road and start the slope further down. By measuring out to twelve every time, you’ll get the smoothest gradients possible.
 
@@ -137,7 +137,7 @@ IRL tunnels and bridges are expensive, so they don’t tend to be thrown up ever
 
 ## Campus, administrative and business districts
 
-![Monorail at university campus](/images/monorail-university-campus-2.jpg)
+![Monorail at university campus](/images/monorail-university-campus-2.webp)
 
 Although they aren’t functional (I’d love the Parklife template applied to stuff like education), these bring a district to life. By combining an actual university with some of the unique buildings it’s possible to create a convincing campus.
 

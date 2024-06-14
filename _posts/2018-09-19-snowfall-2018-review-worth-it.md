@@ -6,16 +6,16 @@ author: "SEPECAT"
 categories: "DLC Reviews"
 tags:
 excerpt: "Snowfall was the second expansion for Cities: Skylines. It released in early 2016 and brought winter, new maps, new buildings and trams to the game." 
-cover-img: "/images/3b043-night-snowfall-dlc.jpg"
+cover-img: "/images/3b043-night-snowfall-dlc.webp"
 ---
 
-![Residential area at night](/images/residential-snowfall-night.jpg)
+![Residential area at night](/images/residential-snowfall-night.webp)
 
 Snowfall was the second expansion for Cities: Skylines. It released in early 2016 and brought winter, new maps, new buildings and trams to the game. At the same time, Colossal Order released some important free updates to the game, which was added whether or not you buy Snowfall. I talk about the free stuff further down.
 
 ## What’s new?
 
-![Landing at the airport on a Winter map](/images/airport-snowfall-northern-lights.jpg)
+![Landing at the airport on a Winter map](/images/airport-snowfall-northern-lights.webp)
 
 Most of the Snowfall expansion plays out on the three new Winter maps, which add a new climate category in addition to Boreal, Temperate etc. There’s snow, obviously, a whole new type of transport in trams, and a ton of new winter-centric buildings to play with. 
 
@@ -27,14 +27,14 @@ It’s a form of compromise you don’t normally see in Cities: Skylines and add
 
 ## Fantastic trams
 
-![Trams in the city centre](/images/trams-snowfall.jpg)
+![Trams in the city centre](/images/trams-snowfall.webp)
 
 I love trams. Very much. So for me, Snowfall was always likely to be worthwhile just to bring light rail into my cities. They’ve got a great look and have that amazing authentic bell noise as they pass through intersections.
 Functionally, they’re a really useful addition, neatly filling the gap between buses and metro and train lines. They’re ideal for moving people around busy commercial areas and the ability to add tram-only roads means you can add shortcuts that cars can’t take, making them even more efficient.
 
 ## New parks, plazas and unique buildings
 
-![New parks and plazas in Snowfall](/images/snowmobile-snowfall.jpg)
+![New parks and plazas in Snowfall](/images/snowmobile-snowfall.webp)
 
 There’s a whole range of new parks and plazas that completely replace a lot of standard ones. Some are straight swaps for the non-winter versions, while others are new. They work the same way but they give you enjoyable variety and tons of cute new animations to watch.
 
@@ -44,13 +44,13 @@ There’s also a new Road Maintenance Depot, which is available on all maps. Add
 
 ## Stunning visuals
 
-![Residential area at night](/images/residential-northern-lights.jpg)
+![Residential area at night](/images/residential-northern-lights.webp)
 
 As well as some gameplay challenge, Snowfall adds some incredible scenery. It’s a really beautiful piece of work. Once you’ve dealt with the basics like keeping your cims from freezing to death, sitting back and watching your trams glide down snow-filled avenues is just brilliant. Thick blizzards can almost completely obscure your view. The addition of the northern lights also makes for fantastic screenshots while exploring your city at night.
 
 ## Heating is a big new mechanic on Winter maps
 
-![Geothermal power plants in Snowfall](/images/geothermal-heating-plant.jpg)
+![Geothermal power plants in Snowfall](/images/geothermal-heating-plant.webp)
 
 At first, your cims will use electricity to power their homes, which is inefficient and expensive. Early on, you’ll build what seems like an endless stream of coal power stations to keep the lights on.
 
@@ -58,7 +58,7 @@ Bit by bit, you’ll be able to upgrade water pipes to carry hot water as a dist
 
 ## Where are the mountains?
 
-![Ski resort unique building](/images/ski-resort-snowfall.jpg)
+![Ski resort unique building](/images/ski-resort-snowfall.webp)
 
 What feels like a missed opportunity is adding a mountainous Winter map. The three maps that are here are pretty flat. Admittedly cable cars weren’t available until Mass Transit got released, but even so it’s hard to create anything that feels like a proper ski resort. The best I could manage was a sort of ‘winter sports park’.
 
@@ -72,14 +72,14 @@ We got a bunch of new policies to help your city cope with the permanent sub-zer
 
 ## Snowfall is almost a standalone DLC
 
-![Central square Snowfall](/images/square-snowfall.jpg)
+![Central square Snowfall](/images/square-snowfall.webp)
 In terms of crossover, Snowfall doesn’t bring much to the wider Cities: Skylines gameplay experience. Apart from trams, the expansion’s content really plays out exclusively on the three new perma-winter maps. Those maps are fun and add variety and challenge for your next city, but the new content stays there. 
 
 It’s a real shame seasons weren’t implemented in other maps. It wouldn’t make a lot of sense on the tropical maps obviously, but the Boreal ones would work great. I can see why the devs didn’t go that way though. How do you determine which of the parks are all-weather - and what happens to the Snowman Park in warmer weather? I think mechanically it would have been messy. That said, I hope they return to that in the future and see what’s possible.
 
 ## Free stuff
 
-![The Christmas Tree unique building](/images/christmas-tree-snowfall.jpg)
+![The Christmas Tree unique building](/images/christmas-tree-snowfall.webp)
 
 Snowfall’s free update added some great new functionality and management of public transport. You’ll have noticed all of this in your game even without Snowfall. It’s worth talking about this stuff specifically so you can see what additional benefit you gain from buying the DLC.
 
@@ -91,7 +91,7 @@ One bit of functionality that’s still missing is adjusting vehicles numbers fo
 
 ## Snowfall: is it worth buying?
 
-![The beautiful new northern lights](/images/northern-lights.jpg)
+![The beautiful new northern lights](/images/northern-lights.webp)
 
 Snowfall is probably the hardest of all the expansions to call on this question. On the one hand, it’s an essential pack for tram aficionados like me. It’s also really fun to make a tough northern industrial town or a remote ski city. The added challenge of snow-covered roads and expensive heating is welcome, too. And the snowy cityscapes are just stunning.
 

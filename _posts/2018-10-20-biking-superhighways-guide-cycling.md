@@ -6,10 +6,10 @@ author: "SEPECAT"
 categories: "Guides"
 tags:
 excerpt: "Biking arrived in After Dark. Suddenly, using the bike-only path, we can build huge networks of fast, direct cycle highways." 
-cover-img: "/images/62c5c-20181020140053_1.jpg"
+cover-img: "/images/62c5c-20181020140053_1.webp"
 ---
 
-![Bike and cycle highway](/images/bike-cycle-highway.jpg)
+![Bike and cycle highway](/images/bike-cycle-highway.webp)
 
 Biking arrived to Cities: Skylines in After Dark, the game’s first expansion. Suddenly, residents would hop onto a bike and ride the pavements and newly-added bike lanes. The pedestrian path got a bike-only counterpart, too - from which we can build huge networks of fast, direct cycle highways.
 
@@ -32,7 +32,7 @@ Bike riding doesn’t seem to have any direct benefits for the population like i
 
 ## Building fast, direct bike highways
 
-![Cycling highway with many junctions](/images/20181020135755_1.jpg)
+![Cycling highway with many junctions](/images/20181020135755_1.webp)
 
 The most efficient bike highways are direct and have few interruptions, which is where dedicated bike paths come in. Although a similar thing can be achieved with bike lanes, using separate bike paths with bridges and underpasses means bikers who are passing through don’t need to ride across road intersections.
 Keeping it separate makes cycle journeys faster, but it also avoids slowing down all of your road traffic. In busy areas of the city that’s potentially very important.
@@ -49,7 +49,7 @@ Given how effective they are, I was always surprised at how the game doesn’t d
 
 ## Residents seem to prefer paths and travel further than on roads
 
-![Cycling integrated with public transit](/images/20181020135919_1.jpg)
+![Cycling integrated with public transit](/images/20181020135919_1.webp)
 
 I can’t find the research now, but a couple of years ago someone posted a few tests on the Steam forums that seemed to show cims will prefer to take a footpath, even if it’s a little longer than the equivalent sidewalk/pavement.
 
@@ -81,7 +81,7 @@ I think that what might be happening here is that riders haven’t got a way of 
 
 ## Roundup
 
-![Biking superhighway](/images/20181020140219_1.jpg)
+![Biking superhighway](/images/20181020140219_1.webp)
 
 I hope you found this handy! Biking is a great addition to the game and can genuinely replace a lot of local and even shorter medium-distance public transport routes. It’s especially good for connecting different city areas with fast, direct routes that have no problem with capacity and passenger throughput.
 Whether they’re over, under, or along the ground, bike highways can keep vast numbers of cars off the road, look great, and let you create your own Dutch-style biking haven.

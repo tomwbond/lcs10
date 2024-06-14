@@ -6,10 +6,10 @@ author: "SEPECAT"
 categories: "DLC Reviews"
 tags:
 excerpt: "Parklife freshened up the formula, added systems we hadn’t seen before and gave us expansive parks that can define, or redefine, whole parts of the city." 
-cover-img: "/images/archipelago-amusement-park-night.jpg"
+cover-img: "/images/archipelago-amusement-park-night.webp"
 ---
 
-![Nature reserve tents](/images/nature-reserve-tents.jpg)
+![Nature reserve tents](/images/nature-reserve-tents.webp)
 
 Parklife, Cities: Skylines’ sixth expansion, launched to much acclaim in summer of 2018. It freshened up the formula, added systems we hadn’t seen before and gave us expansive parks that can define, or redefine, whole parts of the city.
 
@@ -21,7 +21,7 @@ Perhaps most significant was that noise got an overhaul. With 1.10, trees now da
 
 ## The big story in Parklife
 
-![Parklife amusement park island](/images/amusement-park-island-night.jpg)
+![Parklife amusement park island](/images/amusement-park-island-night.webp)
 
 The new parks are the big thing here, as you’d expect. They’re a totally new system that operates quite differently from anything else in the game. You start by drawing a park similar to a district. Once you’ve placed a main gate (ideally near transit connections), you're away. You can draw paths through the park and place buildings and props wherever you like.
 
@@ -47,7 +47,7 @@ When I wrote about [Snowfall](/snowfall-2018-review-worth-it/), I talked about h
 
 ## What else is new?
 
-![Amusement park island Parklife](/images/amusement-park-island-day.jpg)
+![Amusement park island Parklife](/images/amusement-park-island-day.webp)
 
 Parks are the headline and most of the new stuff is gated within them, but there are other additions. The six new unique buildings are a mixed bag. The huge Colossalus, Sea Fortress and Old Market Street are tricky to use, because their size and styling mean they tend to dominate what’s around them. The latter would work great in a European-themed old town though.
 
@@ -59,7 +59,7 @@ A stack of new policies arrive as well, including ones to control the fireworks 
 
 ## New found freedom
 
-![Nature reserve campsite](/images/nature-reserve-campsite.jpg)
+![Nature reserve campsite](/images/nature-reserve-campsite.webp)
 
 Without Parklife it’s possible, of course, to design park areas - especially nature reserve type areas. What Parklife does is give you vast numbers of props, buildings and paths - as well as a gameplay reason for creating them.
 
@@ -71,7 +71,7 @@ Freedom cuts both ways, of course. It’s possible to totally screw up your new 
 
 ## Parklife: is it worth buying?
 
-![Amusement park off the coast](/images/amusement-park-offshore.jpg)
+![Amusement park off the coast](/images/amusement-park-offshore.webp)
 
 It’s difficult to find fault with the pack. Everything feels well executed. I’d have liked some love for the winter maps but that’s a wider criticism rather than a problem with Parklife specifically.
 

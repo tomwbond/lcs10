@@ -6,10 +6,10 @@ author: "SEPECAT"
 categories: "Guides"
 tags:
 excerpt: "In Cities: Skylines, there is a real supply chain. The game models the movement of goods from one place to another, rather than simulating it in an abstract way."
-cover-img: "/images/20180908173623_1.jpg"
+cover-img: "/images/20180908173623_1.webp"
 ---
 
-![Forestry trucks supply chain](/images/20180907164155_1.jpg)
+![Forestry trucks supply chain](/images/20180907164155_1.webp)
 
 ***Compatibility: This article talks about zoned industries in the game and doesn't cover the supply chain added with the Industries DLC.***
 
@@ -23,7 +23,7 @@ That means you can easily build a city however you like: you could do no industr
 
 ## Setting up a complete supply chain
 
-![Supply chain flowchart](/images/supply-chain-flowchart.jpg)
+![Supply chain flowchart](/images/supply-chain-flowchart.webp)
 
 *Yep, I made this all by myself in PowerPont. Stick to the day job you say?* **[Correction: Organic and local sources goods from Processors, *not* Extractors. Thanks Glitcher for pointing that out! Annoyingly I can't find the source file to easily fix that.]**
 
@@ -37,7 +37,7 @@ By the way, specialised industries only have a single level - the buildings don�
 
 ## Sourcing the raw materials
 
-![Natural resources on the map](/images/20180909133940_1.jpg)
+![Natural resources on the map](/images/20180909133940_1.webp)
 
 Turn on the Natural Resources overlay to see where the deposits are on your map. Then, once you’ve chosen your spots, open the Districts tool. Draw a zone, then open the specialisations tab, choose the one you want, and click on your newly drawn district. Now, all industrial zoning inside the district will produce the relevant type of buildings.
 
@@ -49,7 +49,7 @@ However, that doesn’t make those areas useless. After a while, the oil and ore
 
 ## Going for zero imports
 
-![Imports and exports](/images/20180909161921_1.jpg)
+![Imports and exports](/images/20180909161921_1.webp)
 
 *Notice the buildings importing goods. That could mean I should scale up production a little - but it’s worth waiting a while to double check.
 
@@ -63,7 +63,7 @@ Keep in mind that there can be a bit of lag because cargo needs to physically mo
 
 ## The flow of goods
 
-![Gridlock. An example of my bad traffic management.](/images/gridlock-2.jpg)
+![Gridlock. An example of my bad traffic management.](/images/gridlock-2.webp)
 
 In the specialised areas, trucks will travel between extractors and processors. You’ll also have trucks leaving your processors taking goods to your generic industrial areas. On top of that, you’ll probably have lorries heading out of the city, exporting surplus goods.
 
@@ -79,7 +79,7 @@ One small extra thing: the oil industry can supply your oil-fired power plants, 
 
 ## How the Organic and Local Produce specialisation mixes things up
 
-![Organic and local specialisation](/images/organic-specialisation-1.jpg)
+![Organic and local specialisation](/images/organic-specialisation-1.webp)
 
 The commercial specialisation introduced in the Green Cities expansion can be really useful. Buildings in these districts are capable of acting like mini-factories. 
 
@@ -89,7 +89,7 @@ This has two effects: first, a full 50% fewer trucks delivering cargo, which is 
 
 ## Does a complete supply chain make money?
 
-![Oil fields export](/images/20180909161952_1.jpg)
+![Oil fields export](/images/20180909161952_1.webp)
 
 *I’ve got plenty of oil production capacity, which is why so much is being exported.*
 
@@ -101,7 +101,7 @@ Either way, an industrial city is totally viable.
 
 ## Roundup
 
-![Oil fields fire](/images/20180908173744_1.jpg)
+![Oil fields fire](/images/20180908173744_1.webp)
 
 *A pretty average day at the oil fields*
 

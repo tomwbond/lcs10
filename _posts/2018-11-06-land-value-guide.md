@@ -6,10 +6,10 @@ author: "SEPECAT"
 categories: "Guides"
 tags:
 excerpt: "Land value is one of the factors that let buildings upgrade to their highest levels. Without high enough value, the city won’t be able to earn the big bucks." 
-cover-img: "/images/90b04-housing-land-value.jpg"
+cover-img: "/images/90b04-housing-land-value.webp"
 ---
 
-![Upgraded housing](/images/upgraded-housing.jpg)
+![Upgraded housing](/images/upgraded-housing.webp)
 
 In Cities: Skylines, land value is one of the factors that let buildings upgrade to their highest levels. Without high enough value, the city won’t be able to earn the big bucks that come from residential taxes. At worst, buildings won’t spawn at all in an undesirable place.
 
@@ -26,7 +26,7 @@ When buildings level up, they themselves increase the value of the land around t
 
 ## Waterfront zoning
 
-![Water front land value](/images/water-land-value-2.jpg)
+![Water front land value](/images/water-land-value-2.webp)
 
 Open the land value overlay and you’ll notice that land along the coast, by the edge of the river or around a lake is highlighted blue. Areas next to water, in other words, get a land value head start.
 
@@ -42,7 +42,7 @@ Personally, I use the tennis and basketball courts and the skatepark in practica
 
 ## City services: schools, clinics, police and fire stations
 
-![Cemetery serving the suburbs](/images/cemetery-cities.jpg)
+![Cemetery serving the suburbs](/images/cemetery-cities.webp)
 
 The basic city service buildings all increase local land value as well as delivering their service. Add a police station, cemetery or high school and you’ll see an immediate boost in the land value overlay.
 
@@ -50,7 +50,7 @@ The Yoga Garden and other health-benefiting buildings do the same. Even the Crem
 
 ## Noise lowers value
 
-![Train station land value](/images/train-station-noise.jpg)
+![Train station land value](/images/train-station-noise.webp)
 
 Noisy buildings, even if they’re desirable, tend to lower land value around them. A train station in the middle of an otherwise green zone will drop a fairly significant blue hole in the middle of it.
 
@@ -68,7 +68,7 @@ The noisiest buildings, like the Stadium, can have big consequences for their im
 
 ## Better roads
 
-![Easily add crossings on straight roads](/images/crosswalk-suburb.jpg)
+![Easily add crossings on straight roads](/images/crosswalk-suburb.webp)
 
 In one of the earlier patches, noise from roads was improved. It used to simply be a factor of road size: a six-lane road, even an empty one, would make a lot of noise. Now, regardless of the type of road, the volume and speed of traffic dictate the noise.
 
@@ -90,7 +90,7 @@ In that way, abandoned buildings can be both a symptom and a cause of other aban
 
 ## Pollution
 
-![](/images/oil-reservoir.jpg)
+![](/images/oil-reservoir.webp)
 
 As well as making an area unlivable, pollution can quickly trash an area’s land value. Incinerators and industrial buildings pollute the ground underneath and around them. Coal and power plants do the same. Recycling plants do a better job but still leave traces.
 

@@ -6,10 +6,10 @@ author: "SEPECAT"
 categories: "DLC Reviews"
 tags:
 excerpt: "The most striking addition in After Dark is the day/night cycle. Before that, Cities: Skylines played out entirely during the day." 
-cover-img: "/images/skyline-night.jpg"
+cover-img: "/images/skyline-night.webp"
 ---
 
-![Leisure specialisation around the casino](/images/leisure-specialisation.jpg)
+![Leisure specialisation around the casino](/images/leisure-specialisation.webp)
 
 After Dark was the first expansion for Cities: Skylines, and dropped in late 2015.
 
@@ -27,7 +27,7 @@ The daily cycle changes the rhythm of the game, with slower traffic at night and
 
 ## Tourism and Leisure commercial specialisations
 
-![Tourism specialisation](/images/tourism-specialisation.jpg)
+![Tourism specialisation](/images/tourism-specialisation.webp)
 
 For me, the big hitter in the paid content is the new commercial district specialisations. Just like industry, you can draw a district then specify that all commercial in the area develops for Tourism or Leisure.
 
@@ -43,7 +43,7 @@ I love building cities for tourism [my tourism guide](/how-to-bring-more-tourist
 
 ## Transport hubs and public transport options
 
-![Cargo hub dealing with cargo from water, rail and road](/images/cargo-hub.jpg)
+![Cargo hub dealing with cargo from water, rail and road](/images/cargo-hub.webp)
 
 After Dark began introducing hubs to the game - by which I mean integrated transport buildings. Hubs are some of my favourite things in the game. They’re just so *satisfying*.
 
@@ -55,7 +55,7 @@ Taxis are a whole new type of semi-autonomous transport. Put down a depot then s
 
 ## Parks, plazas and unique buildings
 
-![Skatepark in the city](/images/skatepark.jpg)
+![Skatepark in the city](/images/skatepark.webp)
 
 There’s a handful of new unique buildings including the casino (which makes a great centrepiece for your leisure area), a gigantic hotel and driving range. You also get a prison, adding lots of holding cell capacity to stop your police stations getting full.
 
@@ -65,7 +65,7 @@ Talking of parks, the Skatepark is my favourite. It’s really versatile - aesth
 
 ## Cycling and bike paths, and bus lanes
 
-![Bike lanes taking traffic off the street](/images/bike-lanes.jpg)
+![Bike lanes taking traffic off the street](/images/bike-lanes.webp)
 
 After Dark also added a major new type of transport - cycling. Cims can suddenly hop onto a bike and travel a lot further than they could on foot. The expansion also adds several road types with bike lanes and specific bike paths. It’s not a feature that’s shouted about enough, but for traffic reduction and variety, it’s massive.
 
@@ -73,7 +73,7 @@ You also get new roads with dedicated bus lanes, which give priority to your pub
 
 ## New city policies
 
-![Volleyball court on the beach](/images/volleyball-court.jpg)
+![Volleyball court on the beach](/images/volleyball-court.webp)
 
 There’s some great new policies here too. The big one is Old Town. This is basically Heavy Traffic Ban but for private vehicles. You can use it to stop tourists driving into your city centre but also stop commuter traffic passing through residential areas.
 
@@ -88,7 +88,7 @@ So anyway, the upshot is that some important expansion features actually got rel
 
 ## After Dark: is it worth it?
 
-![Leisure specialisation and tourists arriving](/images/leisure-specialisaiton-2.jpg)
+![Leisure specialisation and tourists arriving](/images/leisure-specialisaiton-2.webp)
 
 For me, After Dark is a must-have expansion.
 

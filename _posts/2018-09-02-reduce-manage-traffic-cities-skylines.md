@@ -7,10 +7,10 @@ categories: "Guides"
 tags:
 excerpt: "In a typical city, managing traffic is your biggest challenge. With a badly-designed system, people can’t get to where they’re going, causing abandonment; and potentially, the death of your once-flourishing settlement."
 share-description: "In a typical city, managing traffic is your biggest challenge. With a badly-designed system, people can’t get to where they’re going, causing abandonment; and potentially, the death of your once-flourishing settlement."
-cover-img: "/images/gridlock-2.jpg"
+cover-img: "/images/gridlock-2.webp"
 ---
 
-![Pedestrian paths](/images/footpath-pedestrians.jpg)
+![Pedestrian paths](/images/footpath-pedestrians.webp)
 
 *Better traffic management: a pedestrian-friendly neighbourhood.*
 
@@ -27,7 +27,7 @@ Aside from making you feel like a bad mayor, when buildings can’t function the
 
 ## Instead of managing traffic, reduce it
 
-![High-density-green-housing](/images/empty-streets.jpg)
+![High-density-green-housing](/images/empty-streets.webp)
 
 *Thousands of residents, almost no traffic.*
 
@@ -36,7 +36,7 @@ But often, a more elegant solution is to reduce the amount of traffic that takes
 
 ## Policies first
 
-![city-policies](/images/city-policies.jpg)
+![city-policies](/images/city-policies.webp)
 
 *On compatibility: Each expansion added new policies. If you’ve not got them all your list might look a little different to mine. If you’d like to support the site, grab them from the links on the right. Thanks!*
 
@@ -52,7 +52,7 @@ Cities: Skylines gives you a lot of helpful policies for reducing traffic across
 
 ## City policies that are situationally useful
 
-![Fire helicopters dousing a fire](/images/fire-helicopters.jpg)
+![Fire helicopters dousing a fire](/images/fire-helicopters.webp)
 
 *I love the fire helicopters.*
 
@@ -65,7 +65,7 @@ Prefer Ferries, for a small upkeep increase, will divert people away from the st
 
 ## Put your cargo on rails
 
-![Cargo hub dealing with cargo from water, rail and road](/images/cargo-hub.jpg)
+![Cargo hub dealing with cargo from water, rail and road](/images/cargo-hub.webp)
 
 *The cargo hub is expensive but excellent. Here it's importing goods by sea rather than road, sending trucks for local deliveries, and packing cargo onto trains to get sent to other cargo stations around the city.*
 Even if you’ve got no industrial areas and rely on offices for jobs, you’ll still see huge amounts of truck traffic, bringing in goods for your commercial zones. A well-designed road network can get cargo in and out of your city efficiently but it’s almost inevitable that with large commercial zones will come backlogs of heavy traffic.
@@ -77,7 +77,7 @@ This method doesn’t completely eliminate that traffic - once the trains are un
 
 ## Low density and organic zoning
 
-![Organic and local produce specialisation](/images/organic-specialisation.jpg)
+![Organic and local produce specialisation](/images/organic-specialisation.webp)
 
 Using low-density housing doesn’t strictly reduce traffic, but it does spread it around. Because fewer people live in the same space, you can encourage them out of their suburbs in different directions, towards separate intersections, lessening pressure on any one point.
 
@@ -89,7 +89,7 @@ Organic zones make very little noise - meaning you can put them right inside you
 
 ## Design a great public transport system
 
-![Tram and train hub](/images/tram-train-hub.jpg)
+![Tram and train hub](/images/tram-train-hub.webp)
 
 *The transit hierarchy: residents take buses from the suburbs to the high street where they swap to trams that go to the train station for services to other parts of the city.*
 
@@ -103,7 +103,7 @@ Think of public transport as a hierarchy: use local routes that feed medium-leng
 
 ## Build neighbourhoods around pedestrians
 
-![Pedestrian bridges](/images/pedestrian-bridge-1.jpg)
+![Pedestrian bridges](/images/pedestrian-bridge-1.webp)
 
 *This was before I knew about the crosswalk trick... this bridge brings many more residents within range of each transit stop.*
 
@@ -115,7 +115,7 @@ Pedestrians are great, but they still have ways of causing congestion like when 
 
 ## Encouraging people onto bikes
 
-![Busy bike lanes](/images/busy-bike-lanes.jpg)
+![Busy bike lanes](/images/busy-bike-lanes.webp)
 
 *Dogs can use bike lanes, too.*
 
@@ -131,7 +131,7 @@ I've written a [guide for building biking superhighways](/biking-superhighways-g
 
 ## Add crosswalks/pedestrian crossings on quiet streets
 
-![Crosswalk added to a straight road](/images/crosswalk-added.jpg)
+![Crosswalk added to a straight road](/images/crosswalk-added.webp)
 
 *A crossing on a straight street. And yes... we've suffered a recent fire in the neighbourhood.*
 
@@ -142,7 +142,7 @@ I’ve covered this in more detail (including the how and the why) [here](/easil
 
 ## As a last resort, use gimmicks
 
-![monorail-link](/images/monorail-only.jpg)
+![monorail-link](/images/monorail-only.webp)
 
 *Want to go to work? It's monorail or nothing in this district.*
 
@@ -152,7 +152,7 @@ For a more satisfying version, give satellite towns highway access but no local 
 
 ## Roundup
 
-![A raised highway interchange](/images/highway-interchange.jpg)
+![A raised highway interchange](/images/highway-interchange.webp)
 
 *Another life is possible.*
 

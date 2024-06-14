@@ -6,10 +6,10 @@ author: "SEPECAT"
 categories: "DLC Reviews"
 tags:
 excerpt: "Mass Transit is the fourth expansion for Cities: Skylines and is often the one people recommend getting first. It’s pretty easy to see why." 
-cover-img: "/images/blimp-mass-transit-archipelago.jpg"
+cover-img: "/images/blimp-mass-transit-archipelago.webp"
 ---
 
-![Monorail at night](/images/monorail-night-skylines.jpg)
+![Monorail at night](/images/monorail-night-skylines.webp)
 Mass Transit is the fourth expansion for Cities: Skylines and is often the one people recommend getting first. It’s pretty easy to see why.
 
 It’s one of the meatier expansions and launched with a major free update that overhauled traffic management including giving granular control over intersections and transit lines. Four new transport types and hub buildings are among the other headliners. But is it worth your time and money? Let’s find out!
@@ -24,7 +24,7 @@ Five hub interchanges make major contributions to the efficiency of your network
 
 ## Monorails, blimps, cable cars and ferries
 
-![Cable cars to nature reserve](/images/cable-car-nature-reserve.jpg)
+![Cable cars to nature reserve](/images/cable-car-nature-reserve.webp)
 
 The new transport types are the main attraction, and justifiably so. They all look great and fill gaps in the base game. That said, they don’t actually replace any existing transport type or do the same job better.
 That’s actually a good thing, although it can feel a little underwhelming at first. The monorail is like an overground metro in terms of its stats and performance, but visually it fills a totally different role and therefore suits different parts of your city.
@@ -45,7 +45,7 @@ The tropical city I made on the Archipelago map is a good example. It needed a h
 
 ## Gleaming new hub buildings
 
-![Central station handling lines to all parts of the city](/images/multiplatform-station-passthrough.jpg)
+![Central station handling lines to all parts of the city](/images/multiplatform-station-passthrough.webp)
 
 The new hub buildings really make Mass Transit shine.
 
@@ -65,7 +65,7 @@ Some of these were game-changing features and things, like the vehicle number co
 
 ## Ultimately, Mass Transit is all about options
 
-![Bike highway and ferry](/images/ferry-bike-highway.jpg)
+![Bike highway and ferry](/images/ferry-bike-highway.webp)
 
 There’s two ways Mass Transit really shines. First, it gives you *options*. It lets you choose a niche option for a niche scenario: taking tourists up the mountain to reach the entrance of my hilltop nature reserve, for instance.
 
@@ -76,7 +76,7 @@ After Dark added the first of these hub buildings and they obviously struck a ch
 
 ## Mass Transit: is it worth buying?
 
-![Mass Transit metro monorail rail hub](/images/city-centre-hub.jpg)
+![Mass Transit metro monorail rail hub](/images/city-centre-hub.webp)
 
 I think Mass Transit is one of the most compelling additions to the game, and alongside Parklife, the first DLC I’d suggest buying.
 

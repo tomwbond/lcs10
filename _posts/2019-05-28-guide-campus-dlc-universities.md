@@ -6,7 +6,7 @@ author: "SEPECAT"
 categories: "Guides"
 tags:
 excerpt: "Campus overhauls higher education. It brings together ideas from Parklife and Industries and applies them to universities." 
-cover-img: "/images/8c465-20190528155221_1.jpg"
+cover-img: "/images/8c465-20190528155221_1.webp"
 ---
 
 Campus is Cities: Skylines’ eighth expansion, and gives us a complete overhaul of the higher education system. It brings together ideas introduced in Parklife, Industries and Match Day DLCs and applies them to the university system in the game. 
@@ -17,7 +17,7 @@ The expansion has only been out a week, but I’ve had a chance to play with eac
 
 ## Campus DLC - the basics
 
-![Faculty in Campus DLC](/images/20190528155453_1.jpg)
+![Faculty in Campus DLC](/images/20190528155453_1.webp)
 
 Getting started with the new Campus areas will be familiar to anyone who has the Parklife or Industries expansions. First, zone a new Campus area (by opening the Districts and Areas tab and choosing Paint Campus Area) and place the administrative building of your chosen Campus type. At the most basic level, just add a set of dormitories (or any building in the ‘Education Buildings’ tab and you’re away!
 
@@ -31,7 +31,7 @@ It’s not possible to mix and match building types across Campus types. Campus 
 
 ## Effective Campus design
 
-![Building in-city university campuses](/images/20190528155550_1-1.jpg)
+![Building in-city university campuses](/images/20190528155550_1-1.webp)
 
 Campus buildings are, like in Parklife, able to snap to footpaths as well as roads (with the exception of the Administration building, which acts as a front door for things like garbage collection and police visits). That opens up opportunities to design stunning, leafy campuses with flowing footpaths and no traffic.
 
@@ -72,7 +72,7 @@ I think both work, and in the real world it’s not uncommon for city-based univ
 
 ## Be cautious about over expansion
 
-![Campus DLC](/images/20190526123043_1-1-1024x576.jpg)
+![Campus DLC](/images/20190526123043_1-1-1024x576.webp)
 
 Keep in mind that demographics in the city change regularly. New people arrive, people grow up, move into the workforce, and die. This change in demographics is the force behind the [Death Wave](/death-wave-how-to-avoid/) I’ve written about, and it also appears here.
 
@@ -82,7 +82,7 @@ So unless you’ve reached the point where money doesn’t really matter, it’s
 
 ## Levelling up to Prestigious and Academic Works
 
-![Campus DLC end of year academic report](/images/20190527131845_1-1.jpg)
+![Campus DLC end of year academic report](/images/20190527131845_1-1.webp)
 
 Taking your university from an unknown backwater college to an internally-recognised institution takes quite a bit of attention and a lot of time. Reaching each new stage requires a certain number of academic works, students and campus attractiveness. At the end of each academic year you’ll get a report showing progress - and don’t forget to check out the Commencement building where your graduates will be throwing their mortar boards into the air in celebration.
 
@@ -96,7 +96,7 @@ I’ve talked about student numbers in the last section, but it’s important to
 
 ## Campus Attractiveness and Varsity Sports
 
-![The Track and Field arena in Campus DLC](/images/20190527103942_1-1024x576.jpg)
+![The Track and Field arena in Campus DLC](/images/20190527103942_1-1024x576.webp)
 
 The Parklife Attractiveness mechanic makes a return here. New Campus buildings each boost attractiveness by a given amount (which isn’t stated on the tooltip, unfortunately), and reaching each new level largely depends on simply placing extra buildings like Libraries, Media Labs and Clubs. 
 
@@ -108,7 +108,7 @@ As an aside, as I mentioned in [my review of Campus](/campus-review/), I really 
 
 ## Nine Faculties to help improve the city
 
-![Faculty in Campus DLC](/images/20190528155307_1.jpg)
+![Faculty in Campus DLC](/images/20190528155307_1.webp)
 
 The new faculties - three per campus type - all have a specific perk that will help boost city services or income. This is great, as it really help tie the game’s mechanics a bit closer together, and give the satisfaction of really leaning into a particular city specialisation.
 

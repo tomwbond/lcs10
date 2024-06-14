@@ -6,10 +6,10 @@ author: "SEPECAT"
 categories: "Guides"
 tags:
 excerpt: "I love Cities: Skylines’ public transport. Especially how satisfying it is to link up different types." 
-cover-img: "/images/monorail.jpg"
+cover-img: "/images/monorail.webp"
 ---
 
-![Tourism specialisation](/images/tourism-specialisation.jpg)
+![Tourism specialisation](/images/tourism-specialisation.webp)
 
 I love Cities: Skylines’ public transport. Especially how satisfying it is to link up different types.
 
@@ -27,7 +27,7 @@ There’s definitely an ‘optimal’ way of doing this and if you’re going fo
 
 ## Think about your public transport as a hierarchy
 
-![Public transport hierarchy](/images/public-transport-hierarchy.jpg)
+![Public transport hierarchy](/images/public-transport-hierarchy.webp)
 
 In the best systems, people move up and down the hierarchy. So you could have walk > bus > train > bus > walk. It’s probably not the perfect analogy but you can think of it like a tree. Fast, high-capacity systems are the trunk and people use increasingly localised forms of transit to get to and from their destination.
 
@@ -53,7 +53,7 @@ It’s easy to turn a profit with buses since they’re cheap to run and your fi
 
 ### Tram
 
-![Public transport: Tram outside the amusement park](/images/amusement-park-trams.jpg)
+![Public transport: Tram outside the amusement park](/images/amusement-park-trams.webp)
 
 Arriving in the [Snowfall DLC](/snowfall-2018-review-worth-it/), trams are among my favourite things in the game. They’re also really good. They’re similar to buses and the same principles apply, but they’ve got a few advantages.
 
@@ -65,7 +65,7 @@ The tram depot can also handle your whole city’s needs, but each new line must
 
 ### Walking
 
-![Footbridge through high density ](/images/high-residential-footbridge.jpg)
+![Footbridge through high density ](/images/high-residential-footbridge.webp)
 
 In any public transport system people walk during the journey: from home to the bus stop, from there to the train, etc. But you can also turn walking into a serious form of local transport.
 
@@ -87,7 +87,7 @@ The metro is quite expensive but once you get close to capacity you can turn a r
 
 ### Monorail
 
-![Monorail through the city](/images/monorail.jpg)
+![Monorail through the city](/images/monorail.webp)
 
 The monorail is my personal favourite. It’s like an overground metro: the trains have the same 180 capacity and travel at a similar speed. As the metro can't go above ground, so the monorail can't go below. 
 
@@ -101,7 +101,7 @@ That makes it space-efficient and much faster than buses and trams travelling th
 
 ### Cycling
 
-![Bike and cycle highway](/images/bike-cycle-highway.jpg)
+![Bike and cycle highway](/images/bike-cycle-highway.webp)
 
 Biking, done properly, can be a really good medium-distance form of travel. Give them good routes and cims will travel miles and miles.
 
@@ -115,7 +115,7 @@ I've written a [guide to biking superhighways](/biking-superhighways-guide-cycli
 
 ### Train
 
-![Separated train lines](/images/separate-train-lines.jpg)
+![Separated train lines](/images/separate-train-lines.webp)
 
 Trains are fast, high-capacity and shine for long distance travel. Give them long stretches of fairly straight track and they’ll fly past even highway traffic. They are excellent for long distances - think connecting up smaller towns that are 2-3 map tiles apart.
 
@@ -147,7 +147,7 @@ Which isn’t the same as being useless, obviously! They’re great but… niche
 
 ### Cable car
 
-![Cable cars to nature reserve](/images/cable-car-nature-reserve.jpg)
+![Cable cars to nature reserve](/images/cable-car-nature-reserve.webp)
 
 Cable cars can straddle waterways, vault over mountains and ignore otherwise difficult terrain much like blimps.
 

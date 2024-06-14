@@ -6,10 +6,10 @@ author: "SEPECAT"
 categories: "DLC Reviews"
 tags:
 excerpt: "Green Cities makes it easier to build cities people want to live in by helping you fix a lot of your problems." 
-cover-img: "/images/76bc4-green-cities-high-density-housing.jpg"
+cover-img: "/images/76bc4-green-cities-high-density-housing.webp"
 ---
 
-![Community School](/images/community-school-green-cities.jpg)
+![Community School](/images/community-school-green-cities.webp)
 
 Green Cities makes it easier to build cities people want to live in. As the fifth expansion, it launched in Autumn 2017 alongside the customary free patch. It also released alongside the Concerts and European Suburbia paid DLCs.
 
@@ -19,7 +19,7 @@ The pack broadens systems rather than overhauling them, and I love making neighb
 
 ## What’s new in Green Cities?
 
-![Solar updraft towers Green Cities](/images/solar-updraft-towers.jpg)
+![Solar updraft towers Green Cities](/images/solar-updraft-towers.webp)
 
 Colossal Order’s free patch alongside the expansion introduced electric cars, three new parks, intersection control for train tracks, and of course, new trees. The Asset Editor got road modding, allowing quick creation of new road combinations.
 
@@ -41,7 +41,7 @@ Of course, there are some nice new unique buildings including the enormous Centr
 
 ## Three new zoning Specialisations
 
-![Organic and local specialisation](/images/organic-local-specialisation.jpg)
+![Organic and local specialisation](/images/organic-local-specialisation.webp)
 
 Probably the headline feature in Green Cities is the significant broadening of the specialisation system. For the first time, residential and office buildings can be tailored, and there’s a third specialisation for commercial areas.
 
@@ -59,7 +59,7 @@ You’ll begin to see tractors delivering goods (direct from the farms, if you�
 
 ## Clean, pollution-free cities
 
-![Eco Water Treatment Plants Green Cities](/images/eco-water-treatment-plant.jpg)
+![Eco Water Treatment Plants Green Cities](/images/eco-water-treatment-plant.webp)
 
 Green Cities offer powerful ways for your city to clean up its act and stop putting so much pollution into the ground and waterways.
 
@@ -77,7 +77,7 @@ Green Cities introduces some very powerful new energy generators. The Solar Updr
 
 ## Green Cities DLC - is it worth buying?
 
-![IT Cluster Green Cities specialisation](/images/it-specialisation-green-cities.jpg)
+![IT Cluster Green Cities specialisation](/images/it-specialisation-green-cities.webp)
 
 I really like Green Cities. For me, the visual and functional variety the new specialisations offer, along with all the ways of solving problems like pollution and noise, make it worthwhile.
 

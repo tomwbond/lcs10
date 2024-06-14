@@ -6,10 +6,10 @@ author: "SEPECAT"
 categories: "Tips"
 tags:
 excerpt: "Everything is ticking along nicely in your city when, all of a sudden, *everyone is dead!* What’s going on?"
-cover-img: "/images/death-wave.jpg"
+cover-img: "/images/death-wave.webp"
 ---
 
-![Death wave in action](/images/death-wave-suburbs.jpg)
+![Death wave in action](/images/death-wave-suburbs.webp)
 
 *Why is everyone dying? The dreaded ‘death wave’.*
 
@@ -21,7 +21,7 @@ Now, in most cases, a death wave isn’t caused by negligence. You can sicken pe
 
 ## Why is everyone dying all of a sudden?
 
-![Cemetery serving the suburbs](/images/cemetery-cities.jpg)
+![Cemetery serving the suburbs](/images/cemetery-cities.webp)
 
 *The city cemetery. Final resting place for 3000 of you cims.*
 
@@ -31,7 +31,7 @@ What happens when you rapidly expand the city is you attract a significant influ
 
 ## How to deal with a death wave that’s in progress
 
-![Death wave graph](/images/death-wave-graph.jpg)
+![Death wave graph](/images/death-wave-graph.webp)
 
 *That first big spike nearly finished me off. As your population grows, problem areas become less troublesome as a smaller percentage of the city.*
 
@@ -46,7 +46,7 @@ Instead, just allow your population to rebuild as naturally as you can. Even gro
 
 ## How to avoid a death wave in the first place
 
-![Checking crematorium capacity](/images/crematorium-capacity.jpg)
+![Checking crematorium capacity](/images/crematorium-capacity.webp)
 
 *You can keep an eye on spikes in Deceased numbers, and check local capacity. If crematoriums are using all their hearses, it's time to add new buildings.*
 
@@ -59,7 +59,7 @@ You can also get a more granular sense of what’s happening by clicking on your
  
 ## When all else fails
 
-![How to start a death wave](/images/high-density-zoning.jpg)
+![How to start a death wave](/images/high-density-zoning.webp)
 
 *This is a death wave waiting to happen.*
 

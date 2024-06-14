@@ -6,10 +6,10 @@ author: "SEPECAT"
 categories: "DLC Reviews"
 tags:
 excerpt: "I already enjoy the way the game handles industry, but I always felt there was scope for more depth and control. It looks like I got my wish!" 
-cover-img: "/images/refinery-plant.jpg"
+cover-img: "/images/refinery-plant.webp"
 ---
 
-![Farming industrial area](/images/farming-area-view.jpg)
+![Farming industrial area](/images/farming-area-view.webp)
 
 Cities: Skylines Industries launched a week ago, marking the seventh major DLC added to the game. As you’ll know if you’ve read my articles about the [Supply chain](/supply-chain-specialised-industry/) and [cargo trains](/guide-efficient-city-cargo-trains/), I already enjoy the way the game handles industry, but I always felt there was scope for more depth and control. It looks like I got my wish!
 
@@ -23,7 +23,7 @@ As always, the paid expansion launched alongside a free update. The big features
 
 ## Drawing industrial areas like Parklife parks
 
-![The forestry area resources panel](/images/forestry-area-resources-panel.jpg)
+![The forestry area resources panel](/images/forestry-area-resources-panel.webp)
 
 The industrial areas build on Parklife’s systems, letting you hand-place industrial buildings rather than zoning them. Each area has five levels and upgrades just like a park.
 
@@ -33,7 +33,7 @@ Every new building has live, detailed information about what it needs, what it h
 
 ## Money-making industrial towns
 
-![Forestry areas](/images/forestry-area-view-2.jpg)
+![Forestry areas](/images/forestry-area-view-2.webp)
 
 I like building clean, green, low-impact cities. But I also like heavy, gritty industrial towns. The Industries expansion gives us a really satisfying way to play. Although industrial towns are certainly possible without it, they get a bit samey. There’s not much you can do aesthetically, not a lot of management and not much financial incentive either. Now, we’ve got all three.
 
@@ -43,7 +43,7 @@ As well as all the extractors and refiners, there are sixteen Unique factories. 
 
 ## Options, detail and micromanagement
 
-![](/images/milking-parlour-admin.jpg)
+![](/images/milking-parlour-admin.webp)
 
 There’s a huge number of new buildings and even more assets. Put down a simple Medium Fruit Field and choose whether it grows apples, oranges, pears or puts up a greenhouse. Functionally they’re the same, but visually distinct. The same applies to trees, letting you choose an appropriate style for the city and map.
 
@@ -57,7 +57,7 @@ I think the devs have added about the right level of detail and micromanagement.
 
 ## Old industries and new industries
 
-![Car factory Industries](/images/car-factory.jpg)
+![Car factory Industries](/images/car-factory.webp)
 
 In my [preview](/industries-expansion-preview/), I wondered how the new industries would relate or integrate with what’s already in the game. And in general, they exist separately, but certain production does pass between the two. Spare goods can be sold to the corresponding zoned industry, or exported, and raw agricultural produce from farms can be sent to Unique factories such as the bakery (thanks to my friend Glitcher for spotting that - I didn't notice originally).
 
@@ -65,7 +65,7 @@ Other intersections including goods from Unique factories making their way to yo
 
 ## Imports and exports
 
-![Ore area Industries](/images/ore-area-view-1.jpg)
+![Ore area Industries](/images/ore-area-view-1.webp)
 
 Although industrial areas can’t import from zoned industry, one industrial area can export to another - so oil rigs off the coast can supply another oil area elsewhere in the city.
 
@@ -77,7 +77,7 @@ There’s a deeper focus here not just on smooth traffic, but on actually gettin
 
 ## Airports, maps and post
 
-![Cargo airport](/images/cargo-airport-1.jpg)
+![Cargo airport](/images/cargo-airport-1.webp)
 
 The cargo airports are a fantastic addition. As long as there’s enough room to place it, it’s like dropping a shipping lane exactly where you need it. And by adding the hub airport with the integrated train station, Colossal Order made me extremely happy! I love that building. It also makes the roads around the airport vastly more efficient. On a small note, [cargo trains](/guide-efficient-city-cargo-trains/) are more interesting now, pulling cargo-appropriate cars like oil tanks.
 
@@ -87,7 +87,7 @@ The post office city service is certainly not vital but I like it. Individual po
 
 ## Industries Review: Is It Worth It?
 
-![Logging supply yard](/images/logs-supply-yard.jpg)
+![Logging supply yard](/images/logs-supply-yard.webp)
 
 Ironically, it’s the sheer size of a lot of the new buildings that means I’m not certain about the expansion’s longevity. Whereas expansions like Mass Transit make themselves felt in every city and I build Parklife parks all over the place, it may be that Industries’ additions get brought out less frequently.
 

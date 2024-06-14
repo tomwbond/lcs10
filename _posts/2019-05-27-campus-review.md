@@ -6,7 +6,7 @@ author: "SEPECAT"
 categories: "DLC Reviews"
 tags:
 excerpt: "Campus is here! The new expansion is the eighth major DLC for Cities: Skylines, and gives us a major overhaul of higher education." 
-cover-img: "/images/campus-dlc-cities-skylines.jpg"
+cover-img: "/images/campus-dlc-cities-skylines.webp"
 ---
 
 Campus is here! The new expansion is the eighth major DLC for Cities: Skylines, and gives us a major overhaul of higher education. It leans on the mechanics in Parklife and Industries to let us make education a more significant and functional part of our cities. It’s a big improvement on the previously passive system of simply dropping a few university buildings in population centres.
@@ -15,7 +15,7 @@ I’ve had a chance to play with the new campus types and fully level one of the
 
 #### **Patch 1.12 free update**
 
-![Busy tram-laden intersection](/images/20190527165629_1.jpg)
+![Busy tram-laden intersection](/images/20190527165629_1.webp)
 
 Let’s cover this first. The 1.12 update is available to all players, whether they have the DLC or not. It adds the Public Library, a really interesting addition I’ll mention later, as well as the Academic Library. We now have the ability to choose what buses run on individual lines, which allows you to some lines to run the new Yellow School bus (but also choose buses you’ve downloaded from Steam Workshop. Hopefully the devs will roll out this previously mod-only feature to the other transport types).
 
@@ -25,7 +25,7 @@ Elsewhere, citizens have now got job titles!
 
 ## **Campus DLC overview**
 
-![Unique buildings in the city centre](/images/20190527110149_1.jpg)
+![Unique buildings in the city centre](/images/20190527110149_1.webp)
 
 The Campus expansion answers a real demand from players. A lot of us build campuses in our cities already - it’s just that they don’t do anything. By sorting through all the unique buildings, it’s possible to design convincing looking campus arrangement, with an actual University building at its centre. But now, that exercise isn’t only for show: the new universities can satisfy the city’s educational needs, generate money, bring in tourists and even improve city services.
 
@@ -37,7 +37,7 @@ When implemented, campuses are genuinely sprawling. If you’ve put down all the
 
 ## **New and distinct architecture for the city**
 
-![Grand-looking campus buildings](/images/20190526115625_1.jpg)
+![Grand-looking campus buildings](/images/20190526115625_1.webp)
 
 Each campus type has a distinct architectural style and the new assets looks brilliant. The designers have done a great job. The three types share some common buildings (with unique designs) like the cafeteria, dormitory and library, but have specific supporting buildings like the Media Lab, IT Club and Dance Club. There’s a huge array of options, meaning you can build a major institution without needing to reuse buildings.
 
@@ -49,7 +49,7 @@ Unlike in Parklife, it’s not possible  to mix and match building types across
 
 ## **Levelling up and micromanagement**
 
-![Academic year report screen](/images/20190527141407_1.jpg)
+![Academic year report screen](/images/20190527141407_1.webp)
 
 As with parks and industrial areas, there’s a levelling up mini-game based around the academic year. You’ll need to generate the required academic works, student numbers and campus attractiveness to move through the ranks towards Prestigious. In a departure from previous DLC, you’ll also need to maintain them. If your student numbers fall, so will the institution’s reputation.
 
@@ -61,7 +61,7 @@ Let’s talk about the mechanics in more detail. Each year, the university can p
 
 You can house your academic works in one of the three new Academic Library unique buildings. These function like ordinary unique buildings but become more attractive the more works they are home to. This feature actually gave me a bit of nostalgia for how art works in Civilization V.
 
-![Cims watching a baseball game](/images/20190527134820_1.jpg)
+![Cims watching a baseball game](/images/20190527134820_1.webp)
 
 Campus attractiveness is a familiar rating that increases as you add new buildings, just like Parklife. However, it is also tied to the new Varsity Sports system. By building one of the new arenas inside a campus zone, the team will now be a Varsity team and play against teams from competing colleges. The wins, losses and trophies are all counted and added to your campus attractiveness, which is great way of bringing all these mechanics together.
 
@@ -71,7 +71,7 @@ As the university levels up, tuition fees per student increase, as does the numb
 
 ## **New faculties to boost city services**
 
-![A campus that is starting to sprawl](/images/20190527165427_1.jpg)
+![A campus that is starting to sprawl](/images/20190527165427_1.webp)
 
 The three campus types each have three faculties - a large, expensive teaching building that can serve 1,000 students. Each faculty has a specific city service benefit. The Trade School School of Tourism and Travel, for example, increases the attractiveness and entertainment provided by leisure buildings and pushes up commercial zones income. The School of Environmental Studies at the Liberal Arts College reduces garbage accumulation, and the School of Law reduces crime rate and police upkeep. 
 
@@ -85,7 +85,7 @@ But there are some new ideas. The Public Library is a good example. When residen
 
 ## **Campus: should you buy it?**
 
-![Athletics stadium](/images/20190527165128_1.jpg)
+![Athletics stadium](/images/20190527165128_1.webp)
 
 I think Campus is a very good expansion. It’s not groundbreaking: it reuses and remixes ideas from Parklife, Industries, Match Day and Concerts. That’s no bad thing - Parklife and Industries, especially - added very welcome variety, depth and control. Here, those ideas are used to add a deep new system for higher education. The interlinked systems of student numbers, attractiveness, sporting success sit alongside entirely new mechanics like the academic works to create a satisfyingly deep new toy set to play with.
 

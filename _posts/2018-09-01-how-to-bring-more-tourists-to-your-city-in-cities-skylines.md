@@ -7,10 +7,10 @@ categories: "Guides"
 tags:
 share-description: "I love building a city that thrives on tourism. There’s just something about the idea of hundreds of eager visitors stepping off the plane, train or ship and being welcomed into my city’s open arms that appeals to me."
 excerpt: "I love building a city that thrives on tourism. There’s just something about the idea of hundreds of eager visitors stepping off the plane, train or ship and being welcomed into my city’s open arms that appeals to me."
-cover-img: "/images/tourist-plane-airport.jpg"
+cover-img: "/images/tourist-plane-airport.webp"
 ---
 
-![Tourists coming from the airport](/images/airport-tourists.jpg)
+![Tourists coming from the airport](/images/airport-tourists.webp)
 
 *The dream! Hundreds of tourists pouring into the city from the airport or harbour, about to catch the train into the centre, ready to spend their money.*
 
@@ -30,7 +30,7 @@ I was a latecomer to [Cities: Skylines](https://www.humblebundle.com/store/citie
 
 ## How does tourism work?
 
-![Tourist overlay](/images/tourist-overlay-2.jpg)
+![Tourist overlay](/images/tourist-overlay-2.webp)
 
 *This overlay shows how strongly each building pulls tourists to the city. Amusement park buildings and uniques like the Stadium and Expo Centre are great. Tourism specialised commercial districts, in pale green, also contribute.*
 
@@ -48,7 +48,7 @@ Now, it’s not completely clear whether adding new ways for tourists to visit m
 
 ## How do I boost the numbers of tourists?
 
-![Tourist overlay](/images/tourist-overlay-1.jpg)
+![Tourist overlay](/images/tourist-overlay-1.webp)
 
 *You can see where your tourists physically are right now. There’s quite a few visiting the Locomotive Halls museum, some on the tram, some on the train - but none (if you closely) on the white train next to the purple one.*
 
@@ -70,7 +70,7 @@ It’s worth saying that these policies can be set city-wide or by district, all
 
 ## **The Tourism specialisation**
 
-![Tourism specialisation](/images/tourist-specialisation-district.jpg)
+![Tourism specialisation](/images/tourist-specialisation-district.webp)
 
 *Some of the tourism specialisation buildings. The ones on the waterfront automatically become cafes and open-air businesses, which is great.*
 
@@ -86,7 +86,7 @@ By the way, when you add a specialisation to a district, the buildings inside th
 
 ## **The economics of tourism - is it profitable?**
 
-![Budget panel](/images/tourism-budget.jpg)
+![Budget panel](/images/tourism-budget.webp)
 
 ***This is going to go really, really high. Eventually.***
 
@@ -100,7 +100,7 @@ Ultimately though, running a budget surplus in the game isn’t a huge challenge
 
 ## **Doing your master planning**
 
-![My notepad](/images/notepad-masterplanning.jpg)
+![My notepad](/images/notepad-masterplanning.webp)
 
 ***A better use of your time than whatever you were doing: working out how you’ll get all your lines in and out with minimal crossover.***
 
@@ -114,7 +114,7 @@ If you go that way, you could put your amusement park, casino and hotel uniques 
 
 ## **Designing your public transport**
 
-![Transport masterplanning](/images/monorail-tourism.jpg)
+![Transport masterplanning](/images/monorail-tourism.webp)
 
 *This isn’t a great screenshot, but here’s* the general *idea: airport and harbour bringing people in on the clockwise loop of the monorail, residents mainly coming on the counter-clockwise loop to maximise utilisation on existing lines.*
 
@@ -130,7 +130,7 @@ In my archipelago city, for example, I fulfilled a geeky dream of having monorai
 
 ## **Keeping your lines separate**
 
-![Passing rail lines](/images/separate-lines.jpg)
+![Passing rail lines](/images/separate-lines.webp)
 
 *A district line going to all stations, an express line just going hub to hub, and an outside line for tourists, dropping off only at stations where they have a dedicated line where they won’t back up internal lines.*
 
@@ -142,7 +142,7 @@ If you haven’t got the space or budget to run separate lines, you can at least
 
 ## **Is it worth building multiple transit hubs?**
 
-![Rail hub](/images/hub-rail-tourists.jpg)
+![Rail hub](/images/hub-rail-tourists.webp)
 
 *I love the transit hub buildings. Having people switch from train to metro, to whatever is just so… satisfying. But you probably don’t need multiple airports.*
 
@@ -156,7 +156,7 @@ When it comes to trains, you’ve got a bit more flexibility. If you’re able t
 
 ## **The Space Elevator**
 
-![Space Elevator](/images/space-elevator.jpg)
+![Space Elevator](/images/space-elevator.webp)
 
 *The Space Elevator. How does it work? Who knows.*
 
@@ -172,7 +172,7 @@ But whatever it does, tons of extra tourists arrive in your city and spend their
 
 ## **Roundup**
 
-![Beached ship](/images/beached-ship.jpg)
+![Beached ship](/images/beached-ship.webp)
 
 *I didn’t think it was worth screenshotting but was worthing photographing with my phone. Yeah… I don’t know. Anyway, these poor saps stayed beached until they despawned.*
 
